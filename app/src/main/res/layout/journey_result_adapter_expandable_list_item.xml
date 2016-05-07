@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingRight="10dp"
+    android:paddingLeft="40dp">
+
+    <TextView
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:id="@+id/textTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/purchase_button"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:focusable="false"
+        android:layout_alignBottom="@+id/textTitle"
+        android:layout_alignTop="@+id/textTitle"
+        android:focusableInTouchMode="false"
+        android:text="@string/purchase_button"
+        android:textSize="12dp" />
+
+</RelativeLayout>

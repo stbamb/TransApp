@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TransApp</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email address</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password2">Repeat password</string>
+    <string name="action_log_in">Log in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_passwords_do_not_match">The given passwords do not match</string>
+    <string name="change_password">Change password</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- String related to other stuff -->
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="default_date">Pick a date:</string>
+    <string name="my_account">My Account</string>
+    <string name="my_purchases">My Trips</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_results">ResultsActivity</string>
+    <string name="purchase_button">Purchase</string>
+    <string name="your_purchases">Your purchases</string>
+
+</resources>

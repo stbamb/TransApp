@@ -1,0 +1,7643 @@
+{
+  "City" : {
+    "ams" : {
+      "id" : "005",
+      "name" : "Amsterdam"
+    },
+    "ber" : {
+      "id" : "002",
+      "name" : "Berlin"
+    },
+    "kra" : {
+      "id" : "003",
+      "name" : "Krakow"
+    },
+    "mad" : {
+      "id" : "004",
+      "name" : "Madrid"
+    },
+    "pra" : {
+      "id" : "001",
+      "name" : "Prague"
+    }
+  },
+  "Journey" : {
+    "-K6jDgZEpok4f8EOmRTf" : {
+      "date" : "01.01.2016",
+      "id" : "001-002",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgZQ6ZG69DRS7tWL" : {
+      "date" : "01.01.2016",
+      "id" : "001-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgZRzkQslDCtErEO" : {
+      "date" : "02.01.2016",
+      "id" : "001-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgZRzkQslDCtErEP" : {
+      "date" : "02.01.2016",
+      "id" : "001-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgZS1H2r6Sbt5sy_" : {
+      "date" : "03.01.2016",
+      "id" : "001-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgZS1H2r6Sbt5sya" : {
+      "date" : "03.01.2016",
+      "id" : "001-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgZT_PTd5GeUsLju" : {
+      "date" : "04.01.2016",
+      "id" : "001-002",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgZUfetMye10Hbqn" : {
+      "date" : "04.01.2016",
+      "id" : "001-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgZUfetMye10Hbqo" : {
+      "date" : "05.01.2016",
+      "id" : "001-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgZVjv5tVFEfcFts" : {
+      "date" : "05.01.2016",
+      "id" : "001-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgZVjv5tVFEfcFtt" : {
+      "date" : "06.01.2016",
+      "id" : "001-002",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgZWuI800jwxYPg_" : {
+      "date" : "06.01.2016",
+      "id" : "001-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgZWuI800jwxYPga" : {
+      "date" : "07.01.2016",
+      "id" : "001-002",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgZXs2mQdNhQhk2s" : {
+      "date" : "07.01.2016",
+      "id" : "001-002",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgZYpQa7jX_PZmPB" : {
+      "date" : "08.01.2016",
+      "id" : "001-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgZYpQa7jX_PZmPC" : {
+      "date" : "08.01.2016",
+      "id" : "001-002",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgZZAetleQub6MJz" : {
+      "date" : "09.01.2016",
+      "id" : "001-002",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgZZAetleQub6MK-" : {
+      "date" : "09.01.2016",
+      "id" : "001-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgZ_FGEVIvjRcM8V" : {
+      "date" : "10.01.2016",
+      "id" : "001-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgZ_FGEVIvjRcM8W" : {
+      "date" : "10.01.2016",
+      "id" : "001-002",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgZas4jcBQdwNxF-" : {
+      "date" : "11.01.2016",
+      "id" : "001-002",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgZas4jcBQdwNxF0" : {
+      "date" : "11.01.2016",
+      "id" : "001-002",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgZbMDjVpKim9L5i" : {
+      "date" : "12.01.2016",
+      "id" : "001-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgZbMDjVpKim9L5j" : {
+      "date" : "12.01.2016",
+      "id" : "001-002",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgZc5temEtby9QE8" : {
+      "date" : "13.01.2016",
+      "id" : "001-002",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgZc5temEtby9QE9" : {
+      "date" : "13.01.2016",
+      "id" : "001-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgZdMjB1Fg_RUXva" : {
+      "date" : "14.01.2016",
+      "id" : "001-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgZfIjR9R3rk5b4-" : {
+      "date" : "14.01.2016",
+      "id" : "001-002",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgZfIjR9R3rk5b40" : {
+      "date" : "15.01.2016",
+      "id" : "001-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgZfIjR9R3rk5b41" : {
+      "date" : "15.01.2016",
+      "id" : "001-002",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgZgPZJAyVCufMdF" : {
+      "date" : "16.01.2016",
+      "id" : "001-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgZgPZJAyVCufMdG" : {
+      "date" : "16.01.2016",
+      "id" : "001-002",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgZgPZJAyVCufMdH" : {
+      "date" : "17.01.2016",
+      "id" : "001-002",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgZhVIKFhXqtq54V" : {
+      "date" : "17.01.2016",
+      "id" : "001-002",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgZixryoDu8Y4MsN" : {
+      "date" : "18.01.2016",
+      "id" : "001-002",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgZixryoDu8Y4MsO" : {
+      "date" : "18.01.2016",
+      "id" : "001-002",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgZixryoDu8Y4MsP" : {
+      "date" : "19.01.2016",
+      "id" : "001-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgZjLV_nNB7H7BK0" : {
+      "date" : "19.01.2016",
+      "id" : "001-002",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgZjLV_nNB7H7BK1" : {
+      "date" : "20.01.2016",
+      "id" : "001-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgZjLV_nNB7H7BK2" : {
+      "date" : "20.01.2016",
+      "id" : "001-002",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgZjLV_nNB7H7BK3" : {
+      "date" : "21.01.2016",
+      "id" : "001-002",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgZkV4KJBwImQ62m" : {
+      "date" : "21.01.2016",
+      "id" : "001-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgZkV4KJBwImQ62n" : {
+      "date" : "22.01.2016",
+      "id" : "001-002",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgZkV4KJBwImQ62o" : {
+      "date" : "22.01.2016",
+      "id" : "001-002",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgZkV4KJBwImQ62p" : {
+      "date" : "23.01.2016",
+      "id" : "001-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgZluOSk5bwivd3D" : {
+      "date" : "23.01.2016",
+      "id" : "001-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgZluOSk5bwivd3E" : {
+      "date" : "24.01.2016",
+      "id" : "001-002",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgZluOSk5bwivd3F" : {
+      "date" : "24.01.2016",
+      "id" : "001-002",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgZmK0LVvHRcAXtv" : {
+      "date" : "25.01.2016",
+      "id" : "001-002",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgZmK0LVvHRcAXtw" : {
+      "date" : "25.01.2016",
+      "id" : "001-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgZmK0LVvHRcAXtx" : {
+      "date" : "26.01.2016",
+      "id" : "001-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgZmK0LVvHRcAXty" : {
+      "date" : "26.01.2016",
+      "id" : "001-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgZnaERIvYAw5nEW" : {
+      "date" : "27.01.2016",
+      "id" : "001-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgZnaERIvYAw5nEX" : {
+      "date" : "27.01.2016",
+      "id" : "001-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgZnaERIvYAw5nEY" : {
+      "date" : "28.01.2016",
+      "id" : "001-002",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgZnaERIvYAw5nEZ" : {
+      "date" : "28.01.2016",
+      "id" : "001-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgZo9lRnzMyFx3iP" : {
+      "date" : "29.01.2016",
+      "id" : "001-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgZo9lRnzMyFx3iQ" : {
+      "date" : "29.01.2016",
+      "id" : "001-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgZo9lRnzMyFx3iR" : {
+      "date" : "30.01.2016",
+      "id" : "001-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgZo9lRnzMyFx3iS" : {
+      "date" : "30.01.2016",
+      "id" : "001-002",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgZpk5W9LYk-RLCL" : {
+      "date" : "31.01.2016",
+      "id" : "001-002",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgZpk5W9LYk-RLCM" : {
+      "date" : "31.01.2016",
+      "id" : "001-002",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgZpk5W9LYk-RLCN" : {
+      "date" : "01.01.2016",
+      "id" : "001-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgZpk5W9LYk-RLCO" : {
+      "date" : "01.01.2016",
+      "id" : "001-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgZqtxeEIuw7_NzA" : {
+      "date" : "02.01.2016",
+      "id" : "001-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgZqtxeEIuw7_NzB" : {
+      "date" : "02.01.2016",
+      "id" : "001-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgZqtxeEIuw7_NzC" : {
+      "date" : "03.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgZqtxeEIuw7_NzD" : {
+      "date" : "03.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgZr2COhasR9sh_X" : {
+      "date" : "04.01.2016",
+      "id" : "001-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgZr2COhasR9sh_Y" : {
+      "date" : "04.01.2016",
+      "id" : "001-003",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgZr2COhasR9sh_Z" : {
+      "date" : "05.01.2016",
+      "id" : "001-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgZr2COhasR9sh__" : {
+      "date" : "05.01.2016",
+      "id" : "001-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgZsbRDEb64rTUn2" : {
+      "date" : "06.01.2016",
+      "id" : "001-003",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgZsbRDEb64rTUn3" : {
+      "date" : "06.01.2016",
+      "id" : "001-003",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgZsbRDEb64rTUn4" : {
+      "date" : "07.01.2016",
+      "id" : "001-003",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgZt8kRGL-tRlDPo" : {
+      "date" : "07.01.2016",
+      "id" : "001-003",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgZt8kRGL-tRlDPp" : {
+      "date" : "08.01.2016",
+      "id" : "001-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgZt8kRGL-tRlDPq" : {
+      "date" : "08.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgZt8kRGL-tRlDPr" : {
+      "date" : "09.01.2016",
+      "id" : "001-003",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgZukCSaHIP4dbse" : {
+      "date" : "09.01.2016",
+      "id" : "001-003",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgZukCSaHIP4dbsf" : {
+      "date" : "10.01.2016",
+      "id" : "001-003",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgZukCSaHIP4dbsg" : {
+      "date" : "10.01.2016",
+      "id" : "001-003",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgZukCSaHIP4dbsh" : {
+      "date" : "11.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgZvGYj9H8zljUjv" : {
+      "date" : "11.01.2016",
+      "id" : "001-003",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgZvGYj9H8zljUjw" : {
+      "date" : "12.01.2016",
+      "id" : "001-003",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgZvGYj9H8zljUjx" : {
+      "date" : "12.01.2016",
+      "id" : "001-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgZwyCB7B6ZkqCPM" : {
+      "date" : "13.01.2016",
+      "id" : "001-003",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgZwyCB7B6ZkqCPN" : {
+      "date" : "13.01.2016",
+      "id" : "001-003",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgZwyCB7B6ZkqCPO" : {
+      "date" : "14.01.2016",
+      "id" : "001-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgZy0Z90QP6gVdIZ" : {
+      "date" : "14.01.2016",
+      "id" : "001-003",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgZy0Z90QP6gVdI_" : {
+      "date" : "15.01.2016",
+      "id" : "001-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgZznurZp_4ogWD4" : {
+      "date" : "15.01.2016",
+      "id" : "001-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgZznurZp_4ogWD5" : {
+      "date" : "16.01.2016",
+      "id" : "001-003",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgZznurZp_4ogWD6" : {
+      "date" : "16.01.2016",
+      "id" : "001-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgZznurZp_4ogWD7" : {
+      "date" : "17.01.2016",
+      "id" : "001-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_-NhEsnbbcReWl" : {
+      "date" : "17.01.2016",
+      "id" : "001-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDg_-NhEsnbbcReWm" : {
+      "date" : "18.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDg_-NhEsnbbcReWn" : {
+      "date" : "18.01.2016",
+      "id" : "001-003",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDg_-NhEsnbbcReWo" : {
+      "date" : "19.01.2016",
+      "id" : "001-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDg_009SyHh_6k2v3" : {
+      "date" : "19.01.2016",
+      "id" : "001-003",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDg_009SyHh_6k2v4" : {
+      "date" : "20.01.2016",
+      "id" : "001-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDg_009SyHh_6k2v5" : {
+      "date" : "20.01.2016",
+      "id" : "001-003",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDg_1gbnXOXQmRNYm" : {
+      "date" : "21.01.2016",
+      "id" : "001-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDg_1gbnXOXQmRNYn" : {
+      "date" : "21.01.2016",
+      "id" : "001-003",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDg_1gbnXOXQmRNYo" : {
+      "date" : "22.01.2016",
+      "id" : "001-003",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDg_1gbnXOXQmRNYp" : {
+      "date" : "22.01.2016",
+      "id" : "001-003",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDg_27LtoX8u8IcLM" : {
+      "date" : "23.01.2016",
+      "id" : "001-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDg_27LtoX8u8IcLN" : {
+      "date" : "23.01.2016",
+      "id" : "001-003",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_27LtoX8u8IcLO" : {
+      "date" : "24.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDg_27LtoX8u8IcLP" : {
+      "date" : "24.01.2016",
+      "id" : "001-003",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDg_3Oo0KV42P_PR6" : {
+      "date" : "25.01.2016",
+      "id" : "001-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_3Oo0KV42P_PR7" : {
+      "date" : "25.01.2016",
+      "id" : "001-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDg_3Oo0KV42P_PR8" : {
+      "date" : "26.01.2016",
+      "id" : "001-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDg_3Oo0KV42P_PR9" : {
+      "date" : "26.01.2016",
+      "id" : "001-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDg_4twa8nkyxtvQz" : {
+      "date" : "27.01.2016",
+      "id" : "001-003",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDg_4twa8nkyxtvR-" : {
+      "date" : "27.01.2016",
+      "id" : "001-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDg_4twa8nkyxtvR0" : {
+      "date" : "28.01.2016",
+      "id" : "001-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDg_4twa8nkyxtvR1" : {
+      "date" : "28.01.2016",
+      "id" : "001-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDg_5BI8TOZZV_0oj" : {
+      "date" : "29.01.2016",
+      "id" : "001-003",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDg_5BI8TOZZV_0ok" : {
+      "date" : "29.01.2016",
+      "id" : "001-003",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_5BI8TOZZV_0ol" : {
+      "date" : "30.01.2016",
+      "id" : "001-003",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDg_5BI8TOZZV_0om" : {
+      "date" : "30.01.2016",
+      "id" : "001-003",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDg_6GtSwEofY2hG8" : {
+      "date" : "31.01.2016",
+      "id" : "001-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_6GtSwEofY2hG9" : {
+      "date" : "31.01.2016",
+      "id" : "001-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDg_6GtSwEofY2hGA" : {
+      "date" : "01.01.2016",
+      "id" : "001-004",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDg_6GtSwEofY2hGB" : {
+      "date" : "01.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_71ETP8PX8RV7_" : {
+      "date" : "02.01.2016",
+      "id" : "001-004",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDg_71ETP8PX8RV7a" : {
+      "date" : "02.01.2016",
+      "id" : "001-004",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDg_71ETP8PX8RV7b" : {
+      "date" : "03.01.2016",
+      "id" : "001-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDg_71ETP8PX8RV7c" : {
+      "date" : "03.01.2016",
+      "id" : "001-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDg_8-n8pfJanIXiN" : {
+      "date" : "04.01.2016",
+      "id" : "001-004",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDg_8-n8pfJanIXiO" : {
+      "date" : "04.01.2016",
+      "id" : "001-004",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDg_8-n8pfJanIXiP" : {
+      "date" : "05.01.2016",
+      "id" : "001-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDg_9ngNb06g0nxTo" : {
+      "date" : "05.01.2016",
+      "id" : "001-004",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDg_9ngNb06g0nxTp" : {
+      "date" : "06.01.2016",
+      "id" : "001-004",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDg_9ngNb06g0nxTq" : {
+      "date" : "06.01.2016",
+      "id" : "001-004",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDg_AABRFh29WSG4z" : {
+      "date" : "07.01.2016",
+      "id" : "001-004",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDg_AABRFh29WSG5-" : {
+      "date" : "07.01.2016",
+      "id" : "001-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDg_B2aMO27Ajjie_" : {
+      "date" : "08.01.2016",
+      "id" : "001-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDg_CY4qNTTJhP8uE" : {
+      "date" : "08.01.2016",
+      "id" : "001-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDg_D4z3S_kHeuPwj" : {
+      "date" : "09.01.2016",
+      "id" : "001-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDg_D4z3S_kHeuPwk" : {
+      "date" : "09.01.2016",
+      "id" : "001-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDg_D4z3S_kHeuPwl" : {
+      "date" : "10.01.2016",
+      "id" : "001-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDg_E5WH_HKzJMG5d" : {
+      "date" : "10.01.2016",
+      "id" : "001-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDg_E5WH_HKzJMG5e" : {
+      "date" : "11.01.2016",
+      "id" : "001-004",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDg_E5WH_HKzJMG5f" : {
+      "date" : "11.01.2016",
+      "id" : "001-004",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDg_E5WH_HKzJMG5g" : {
+      "date" : "12.01.2016",
+      "id" : "001-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDg_FiwP0xq2aVI4A" : {
+      "date" : "12.01.2016",
+      "id" : "001-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDg_FiwP0xq2aVI4B" : {
+      "date" : "13.01.2016",
+      "id" : "001-004",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDg_FiwP0xq2aVI4C" : {
+      "date" : "13.01.2016",
+      "id" : "001-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDg_FiwP0xq2aVI4D" : {
+      "date" : "14.01.2016",
+      "id" : "001-004",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDg_GPUVzzTgtExO2" : {
+      "date" : "14.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_GPUVzzTgtExO3" : {
+      "date" : "15.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_GPUVzzTgtExO4" : {
+      "date" : "15.01.2016",
+      "id" : "001-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDg_GPUVzzTgtExO5" : {
+      "date" : "16.01.2016",
+      "id" : "001-004",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDg_HpPAGUPrbv-0p" : {
+      "date" : "16.01.2016",
+      "id" : "001-004",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDg_HpPAGUPrbv-0q" : {
+      "date" : "17.01.2016",
+      "id" : "001-004",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDg_HpPAGUPrbv-0r" : {
+      "date" : "17.01.2016",
+      "id" : "001-004",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDg_Io1l20D__fOSB" : {
+      "date" : "18.01.2016",
+      "id" : "001-004",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDg_Io1l20D__fOSC" : {
+      "date" : "18.01.2016",
+      "id" : "001-004",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDg_Io1l20D__fOSD" : {
+      "date" : "19.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_Io1l20D__fOSE" : {
+      "date" : "19.01.2016",
+      "id" : "001-004",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_J4DpeEceIqBcq" : {
+      "date" : "20.01.2016",
+      "id" : "001-004",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_J4DpeEceIqBcr" : {
+      "date" : "20.01.2016",
+      "id" : "001-004",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_J4DpeEceIqBcs" : {
+      "date" : "21.01.2016",
+      "id" : "001-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_J4DpeEceIqBct" : {
+      "date" : "21.01.2016",
+      "id" : "001-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDg_KlWyIU9oXs1Tk" : {
+      "date" : "22.01.2016",
+      "id" : "001-004",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDg_KlWyIU9oXs1Tl" : {
+      "date" : "22.01.2016",
+      "id" : "001-004",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDg_KlWyIU9oXs1Tm" : {
+      "date" : "23.01.2016",
+      "id" : "001-004",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDg_LvvP1-JuqvvpB" : {
+      "date" : "23.01.2016",
+      "id" : "001-004",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDg_LvvP1-JuqvvpC" : {
+      "date" : "24.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_LvvP1-JuqvvpD" : {
+      "date" : "24.01.2016",
+      "id" : "001-004",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDg_LvvP1-JuqvvpE" : {
+      "date" : "25.01.2016",
+      "id" : "001-004",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDg_Mm78bhxLcGLyo" : {
+      "date" : "25.01.2016",
+      "id" : "001-004",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDg_Mm78bhxLcGLyp" : {
+      "date" : "26.01.2016",
+      "id" : "001-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_Mm78bhxLcGLyq" : {
+      "date" : "26.01.2016",
+      "id" : "001-004",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDg_Mm78bhxLcGLyr" : {
+      "date" : "27.01.2016",
+      "id" : "001-004",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDg_NuoktKfUa0DAe" : {
+      "date" : "27.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_NuoktKfUa0DAf" : {
+      "date" : "28.01.2016",
+      "id" : "001-004",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDg_NuoktKfUa0DAg" : {
+      "date" : "28.01.2016",
+      "id" : "001-004",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDg_NuoktKfUa0DAh" : {
+      "date" : "29.01.2016",
+      "id" : "001-004",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDg_OAnyU01Ym5m7-" : {
+      "date" : "29.01.2016",
+      "id" : "001-004",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDg_OAnyU01Ym5m70" : {
+      "date" : "30.01.2016",
+      "id" : "001-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_OAnyU01Ym5m71" : {
+      "date" : "30.01.2016",
+      "id" : "001-004",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDg_P8oCzx_4gts3o" : {
+      "date" : "31.01.2016",
+      "id" : "001-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDg_P8oCzx_4gts3p" : {
+      "date" : "31.01.2016",
+      "id" : "001-004",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDg_P8oCzx_4gts3q" : {
+      "date" : "01.01.2016",
+      "id" : "001-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_P8oCzx_4gts3r" : {
+      "date" : "01.01.2016",
+      "id" : "001-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDg_QA-h2if8OmwHi" : {
+      "date" : "02.01.2016",
+      "id" : "001-005",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDg_RhyVVf1hRZJwa" : {
+      "date" : "02.01.2016",
+      "id" : "001-005",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDg_S8OI170PwvRr6" : {
+      "date" : "03.01.2016",
+      "id" : "001-005",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDg_S8OI170PwvRr7" : {
+      "date" : "03.01.2016",
+      "id" : "001-005",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDg_S8OI170PwvRr8" : {
+      "date" : "04.01.2016",
+      "id" : "001-005",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDg_TLl528f_f94g3" : {
+      "date" : "04.01.2016",
+      "id" : "001-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_TLl528f_f94g4" : {
+      "date" : "05.01.2016",
+      "id" : "001-005",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDg_UoSNbrHaHGjwH" : {
+      "date" : "05.01.2016",
+      "id" : "001-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDg_V6O1uNv3l5Xd4" : {
+      "date" : "06.01.2016",
+      "id" : "001-005",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDg_V6O1uNv3l5Xd5" : {
+      "date" : "06.01.2016",
+      "id" : "001-005",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDg_W_Dy1mDeSE2CH" : {
+      "date" : "07.01.2016",
+      "id" : "001-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDg_W_Dy1mDeSE2CI" : {
+      "date" : "07.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDg_XMKQnVvMmdCMQ" : {
+      "date" : "08.01.2016",
+      "id" : "001-005",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDg_XMKQnVvMmdCMR" : {
+      "date" : "08.01.2016",
+      "id" : "001-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_YoK1_N4kWszeN" : {
+      "date" : "09.01.2016",
+      "id" : "001-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_cPNCkN1j6-ZRy" : {
+      "date" : "09.01.2016",
+      "id" : "001-005",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDg_cPNCkN1j6-ZRz" : {
+      "date" : "10.01.2016",
+      "id" : "001-005",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDg_da2FrRXP-3t_l" : {
+      "date" : "10.01.2016",
+      "id" : "001-005",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_da2FrRXP-3t_m" : {
+      "date" : "11.01.2016",
+      "id" : "001-005",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDg_da2FrRXP-3t_n" : {
+      "date" : "11.01.2016",
+      "id" : "001-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDg_da2FrRXP-3t_o" : {
+      "date" : "12.01.2016",
+      "id" : "001-005",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_emdbOFUS5suAk" : {
+      "date" : "12.01.2016",
+      "id" : "001-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDg_emdbOFUS5suAl" : {
+      "date" : "13.01.2016",
+      "id" : "001-005",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDg_emdbOFUS5suAm" : {
+      "date" : "13.01.2016",
+      "id" : "001-005",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDg_emdbOFUS5suAn" : {
+      "date" : "14.01.2016",
+      "id" : "001-005",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_ft-_Fm6NeYZ0p" : {
+      "date" : "14.01.2016",
+      "id" : "001-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDg_ft-_Fm6NeYZ0q" : {
+      "date" : "15.01.2016",
+      "id" : "001-005",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDg_ft-_Fm6NeYZ0r" : {
+      "date" : "15.01.2016",
+      "id" : "001-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDg_gI6ad-3jRLeWR" : {
+      "date" : "16.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDg_gI6ad-3jRLeWS" : {
+      "date" : "16.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDg_gI6ad-3jRLeWT" : {
+      "date" : "17.01.2016",
+      "id" : "001-005",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDg_hKtZYSvsspWmF" : {
+      "date" : "17.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDg_hKtZYSvsspWmG" : {
+      "date" : "18.01.2016",
+      "id" : "001-005",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_iVo9DapeNONS2" : {
+      "date" : "18.01.2016",
+      "id" : "001-005",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDg_iVo9DapeNONS3" : {
+      "date" : "19.01.2016",
+      "id" : "001-005",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDg_iVo9DapeNONS4" : {
+      "date" : "19.01.2016",
+      "id" : "001-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_j083KWDTMjWNx" : {
+      "date" : "20.01.2016",
+      "id" : "001-005",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_j083KWDTMjWNy" : {
+      "date" : "20.01.2016",
+      "id" : "001-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDg_j083KWDTMjWNz" : {
+      "date" : "21.01.2016",
+      "id" : "001-005",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDg_kjAno-4klYb3g" : {
+      "date" : "21.01.2016",
+      "id" : "001-005",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDg_kjAno-4klYb3h" : {
+      "date" : "22.01.2016",
+      "id" : "001-005",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_kjAno-4klYb3i" : {
+      "date" : "22.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDg_kjAno-4klYb3j" : {
+      "date" : "23.01.2016",
+      "id" : "001-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_lzkt2IQrksWma" : {
+      "date" : "23.01.2016",
+      "id" : "001-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDg_lzkt2IQrksWmb" : {
+      "date" : "24.01.2016",
+      "id" : "001-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDg_lzkt2IQrksWmc" : {
+      "date" : "24.01.2016",
+      "id" : "001-005",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_mPVX9isJOB8kJ" : {
+      "date" : "25.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDg_mPVX9isJOB8kK" : {
+      "date" : "25.01.2016",
+      "id" : "001-005",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDg_mPVX9isJOB8kL" : {
+      "date" : "26.01.2016",
+      "id" : "001-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDg_mPVX9isJOB8kM" : {
+      "date" : "26.01.2016",
+      "id" : "001-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDg_nvX6dAC8W5Mex" : {
+      "date" : "27.01.2016",
+      "id" : "001-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDg_nvX6dAC8W5Mey" : {
+      "date" : "27.01.2016",
+      "id" : "001-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDg_nvX6dAC8W5Mez" : {
+      "date" : "28.01.2016",
+      "id" : "001-005",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDg_nvX6dAC8W5Mf-" : {
+      "date" : "28.01.2016",
+      "id" : "001-005",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDg_ouEspYa1FiouE" : {
+      "date" : "29.01.2016",
+      "id" : "001-005",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDg_ouEspYa1FiouF" : {
+      "date" : "29.01.2016",
+      "id" : "001-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDg_ouEspYa1FiouG" : {
+      "date" : "30.01.2016",
+      "id" : "001-005",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDg_ouEspYa1FiouH" : {
+      "date" : "30.01.2016",
+      "id" : "001-005",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDg_pHpoZHdOu4q-i" : {
+      "date" : "31.01.2016",
+      "id" : "001-005",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDg_pHpoZHdOu4q-j" : {
+      "date" : "31.01.2016",
+      "id" : "001-005",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDg_qnQO0CbufBtIe" : {
+      "date" : "01.01.2016",
+      "id" : "002-001",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDg_qnQO0CbufBtIf" : {
+      "date" : "01.01.2016",
+      "id" : "002-001",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDg_qnQO0CbufBtIg" : {
+      "date" : "02.01.2016",
+      "id" : "002-001",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDg_qnQO0CbufBtIh" : {
+      "date" : "02.01.2016",
+      "id" : "002-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDg_rKKoayQwWQAPh" : {
+      "date" : "03.01.2016",
+      "id" : "002-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDg_rKKoayQwWQAPi" : {
+      "date" : "03.01.2016",
+      "id" : "002-001",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDg_rKKoayQwWQAPj" : {
+      "date" : "04.01.2016",
+      "id" : "002-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDg_rKKoayQwWQAPk" : {
+      "date" : "04.01.2016",
+      "id" : "002-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDg_sMY6llQM3ioHL" : {
+      "date" : "05.01.2016",
+      "id" : "002-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDg_sMY6llQM3ioHM" : {
+      "date" : "05.01.2016",
+      "id" : "002-001",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDg_sMY6llQM3ioHN" : {
+      "date" : "06.01.2016",
+      "id" : "002-001",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDg_sMY6llQM3ioHO" : {
+      "date" : "06.01.2016",
+      "id" : "002-001",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDg_tnvnIsvt45YCD" : {
+      "date" : "07.01.2016",
+      "id" : "002-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDg_tnvnIsvt45YCE" : {
+      "date" : "07.01.2016",
+      "id" : "002-001",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDg_tnvnIsvt45YCF" : {
+      "date" : "08.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_uPwfFvHkAuANM" : {
+      "date" : "08.01.2016",
+      "id" : "002-001",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDg_uPwfFvHkAuANN" : {
+      "date" : "09.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDg_uPwfFvHkAuANO" : {
+      "date" : "09.01.2016",
+      "id" : "002-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_uPwfFvHkAuANP" : {
+      "date" : "10.01.2016",
+      "id" : "002-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDg_vAaftuuxDT36i" : {
+      "date" : "10.01.2016",
+      "id" : "002-001",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDg_wvj9YpkF8DiMr" : {
+      "date" : "11.01.2016",
+      "id" : "002-001",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDg_wvj9YpkF8DiMs" : {
+      "date" : "11.01.2016",
+      "id" : "002-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDg_x6O0KceTJ0mZv" : {
+      "date" : "12.01.2016",
+      "id" : "002-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDg_x6O0KceTJ0mZw" : {
+      "date" : "12.01.2016",
+      "id" : "002-001",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDg_x6O0KceTJ0mZx" : {
+      "date" : "13.01.2016",
+      "id" : "002-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDg_yBpj8Fs9AwCoy" : {
+      "date" : "13.01.2016",
+      "id" : "002-001",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDg_yBpj8Fs9AwCoz" : {
+      "date" : "14.01.2016",
+      "id" : "002-001",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDg_z6j1NOgc_Hlvw" : {
+      "date" : "14.01.2016",
+      "id" : "002-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDg_z6j1NOgc_Hlvx" : {
+      "date" : "15.01.2016",
+      "id" : "002-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDg_z6j1NOgc_Hlvy" : {
+      "date" : "15.01.2016",
+      "id" : "002-001",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDg_z6j1NOgc_Hlvz" : {
+      "date" : "16.01.2016",
+      "id" : "002-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDga-0yT5Yq3YUTRO" : {
+      "date" : "16.01.2016",
+      "id" : "002-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDga-0yT5Yq3YUTRP" : {
+      "date" : "17.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDga-0yT5Yq3YUTRQ" : {
+      "date" : "17.01.2016",
+      "id" : "002-001",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDga-0yT5Yq3YUTRR" : {
+      "date" : "18.01.2016",
+      "id" : "002-001",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDga0d7liJDrI1nXm" : {
+      "date" : "18.01.2016",
+      "id" : "002-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDga0d7liJDrI1nXn" : {
+      "date" : "19.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDga0d7liJDrI1nXo" : {
+      "date" : "19.01.2016",
+      "id" : "002-001",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDga1u5W25TMxf8xw" : {
+      "date" : "20.01.2016",
+      "id" : "002-001",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDga1u5W25TMxf8xx" : {
+      "date" : "20.01.2016",
+      "id" : "002-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDga1u5W25TMxf8xy" : {
+      "date" : "21.01.2016",
+      "id" : "002-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDga1u5W25TMxf8xz" : {
+      "date" : "21.01.2016",
+      "id" : "002-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDga212b8W1tT1H-I" : {
+      "date" : "22.01.2016",
+      "id" : "002-001",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDga212b8W1tT1H-J" : {
+      "date" : "22.01.2016",
+      "id" : "002-001",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDga212b8W1tT1H-K" : {
+      "date" : "23.01.2016",
+      "id" : "002-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDga212b8W1tT1H-L" : {
+      "date" : "23.01.2016",
+      "id" : "002-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDga3SXUr5ZZDcq5d" : {
+      "date" : "24.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDga3SXUr5ZZDcq5e" : {
+      "date" : "24.01.2016",
+      "id" : "002-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDga3SXUr5ZZDcq5f" : {
+      "date" : "25.01.2016",
+      "id" : "002-001",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDga3SXUr5ZZDcq5g" : {
+      "date" : "25.01.2016",
+      "id" : "002-001",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDga4YGgozqdRYCeT" : {
+      "date" : "26.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDga4YGgozqdRYCeU" : {
+      "date" : "26.01.2016",
+      "id" : "002-001",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDga4YGgozqdRYCeV" : {
+      "date" : "27.01.2016",
+      "id" : "002-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDga4YGgozqdRYCeW" : {
+      "date" : "27.01.2016",
+      "id" : "002-001",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDga5XBFPrXgacVGT" : {
+      "date" : "28.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDga5XBFPrXgacVGU" : {
+      "date" : "28.01.2016",
+      "id" : "002-001",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDga5XBFPrXgacVGV" : {
+      "date" : "29.01.2016",
+      "id" : "002-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDga6Qb_yQjAr-oL4" : {
+      "date" : "29.01.2016",
+      "id" : "002-001",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDga6Qb_yQjAr-oL5" : {
+      "date" : "30.01.2016",
+      "id" : "002-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDga6Qb_yQjAr-oL6" : {
+      "date" : "30.01.2016",
+      "id" : "002-001",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDga7jJvXRV77RVbQ" : {
+      "date" : "31.01.2016",
+      "id" : "002-001",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDga7jJvXRV77RVbR" : {
+      "date" : "31.01.2016",
+      "id" : "002-001",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDga7jJvXRV77RVbS" : {
+      "date" : "01.01.2016",
+      "id" : "002-003",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDga87XnPr4ODzaZe" : {
+      "date" : "01.01.2016",
+      "id" : "002-003",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDga87XnPr4ODzaZf" : {
+      "date" : "02.01.2016",
+      "id" : "002-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDga87XnPr4ODzaZg" : {
+      "date" : "02.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDga87XnPr4ODzaZh" : {
+      "date" : "03.01.2016",
+      "id" : "002-003",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDga909OUjBRf4iK5" : {
+      "date" : "03.01.2016",
+      "id" : "002-003",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDga909OUjBRf4iK6" : {
+      "date" : "04.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDga909OUjBRf4iK7" : {
+      "date" : "04.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgaAqQS10aLVeZjw" : {
+      "date" : "05.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgaAqQS10aLVeZjx" : {
+      "date" : "05.01.2016",
+      "id" : "002-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgaAqQS10aLVeZjy" : {
+      "date" : "06.01.2016",
+      "id" : "002-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgaAqQS10aLVeZjz" : {
+      "date" : "06.01.2016",
+      "id" : "002-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgaBXlBEH6bB7mOc" : {
+      "date" : "07.01.2016",
+      "id" : "002-003",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgaBXlBEH6bB7mOd" : {
+      "date" : "07.01.2016",
+      "id" : "002-003",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgaBXlBEH6bB7mOe" : {
+      "date" : "08.01.2016",
+      "id" : "002-003",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgaCbgTJHikx0SR3" : {
+      "date" : "08.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgaCbgTJHikx0SR4" : {
+      "date" : "09.01.2016",
+      "id" : "002-003",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgaCbgTJHikx0SR5" : {
+      "date" : "09.01.2016",
+      "id" : "002-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgaD_VkKhKKX5tdr" : {
+      "date" : "10.01.2016",
+      "id" : "002-003",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgaD_VkKhKKX5tds" : {
+      "date" : "10.01.2016",
+      "id" : "002-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgaD_VkKhKKX5tdt" : {
+      "date" : "11.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgaD_VkKhKKX5tdu" : {
+      "date" : "11.01.2016",
+      "id" : "002-003",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgaEmHrNFlaeCp1h" : {
+      "date" : "12.01.2016",
+      "id" : "002-003",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgaEmHrNFlaeCp1i" : {
+      "date" : "12.01.2016",
+      "id" : "002-003",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgaFwXrTkjge_mQ5" : {
+      "date" : "13.01.2016",
+      "id" : "002-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgaFwXrTkjge_mQ6" : {
+      "date" : "13.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgaFwXrTkjge_mQ7" : {
+      "date" : "14.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgaFwXrTkjge_mQ8" : {
+      "date" : "14.01.2016",
+      "id" : "002-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgaGKAlNEbBtzp-V" : {
+      "date" : "15.01.2016",
+      "id" : "002-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgaGKAlNEbBtzp-W" : {
+      "date" : "15.01.2016",
+      "id" : "002-003",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgaHotr42rsqy9yV" : {
+      "date" : "16.01.2016",
+      "id" : "002-003",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgaHotr42rsqy9yW" : {
+      "date" : "16.01.2016",
+      "id" : "002-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgaHotr42rsqy9yX" : {
+      "date" : "17.01.2016",
+      "id" : "002-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgaHotr42rsqy9yY" : {
+      "date" : "17.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgaIZevXnnug2xFa" : {
+      "date" : "18.01.2016",
+      "id" : "002-003",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgaIZevXnnug2xFb" : {
+      "date" : "18.01.2016",
+      "id" : "002-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgaIZevXnnug2xFc" : {
+      "date" : "19.01.2016",
+      "id" : "002-003",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgaIZevXnnug2xFd" : {
+      "date" : "19.01.2016",
+      "id" : "002-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgaJQSVNI0zUy5h7" : {
+      "date" : "20.01.2016",
+      "id" : "002-003",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgaJQSVNI0zUy5h8" : {
+      "date" : "20.01.2016",
+      "id" : "002-003",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgaJQSVNI0zUy5h9" : {
+      "date" : "21.01.2016",
+      "id" : "002-003",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgaKOD_43CG6wLlT" : {
+      "date" : "21.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgaKOD_43CG6wLlU" : {
+      "date" : "22.01.2016",
+      "id" : "002-003",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgaKOD_43CG6wLlV" : {
+      "date" : "22.01.2016",
+      "id" : "002-003",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgaKOD_43CG6wLlW" : {
+      "date" : "23.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgaLUlDoPJbKpZbI" : {
+      "date" : "23.01.2016",
+      "id" : "002-003",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgaLUlDoPJbKpZbJ" : {
+      "date" : "24.01.2016",
+      "id" : "002-003",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgaLUlDoPJbKpZbK" : {
+      "date" : "24.01.2016",
+      "id" : "002-003",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgaLUlDoPJbKpZbL" : {
+      "date" : "25.01.2016",
+      "id" : "002-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgaMN4aEcBdT3arG" : {
+      "date" : "25.01.2016",
+      "id" : "002-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgaMN4aEcBdT3arH" : {
+      "date" : "26.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgaMN4aEcBdT3arI" : {
+      "date" : "26.01.2016",
+      "id" : "002-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgaMN4aEcBdT3arJ" : {
+      "date" : "27.01.2016",
+      "id" : "002-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgaNrlYUL0YBs0QL" : {
+      "date" : "27.01.2016",
+      "id" : "002-003",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgaNrlYUL0YBs0QM" : {
+      "date" : "28.01.2016",
+      "id" : "002-003",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgaNrlYUL0YBs0QN" : {
+      "date" : "28.01.2016",
+      "id" : "002-003",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgaNrlYUL0YBs0QO" : {
+      "date" : "29.01.2016",
+      "id" : "002-003",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgaOgfeFTNxrNOzJ" : {
+      "date" : "29.01.2016",
+      "id" : "002-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgaOgfeFTNxrNOzK" : {
+      "date" : "30.01.2016",
+      "id" : "002-003",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgaOgfeFTNxrNOzL" : {
+      "date" : "30.01.2016",
+      "id" : "002-003",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgaOgfeFTNxrNOzM" : {
+      "date" : "31.01.2016",
+      "id" : "002-003",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgaPHlsWo3Rkfw9b" : {
+      "date" : "31.01.2016",
+      "id" : "002-003",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgaQMKPCwzBnYWRx" : {
+      "date" : "01.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgaQMKPCwzBnYWRy" : {
+      "date" : "01.01.2016",
+      "id" : "002-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgaSy3plbHAz0N7w" : {
+      "date" : "02.01.2016",
+      "id" : "002-004",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgaSy3plbHAz0N7x" : {
+      "date" : "02.01.2016",
+      "id" : "002-004",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgaSy3plbHAz0N7y" : {
+      "date" : "03.01.2016",
+      "id" : "002-004",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgaTkgRTsSZEWWbs" : {
+      "date" : "03.01.2016",
+      "id" : "002-004",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgaTkgRTsSZEWWbt" : {
+      "date" : "04.01.2016",
+      "id" : "002-004",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgaTkgRTsSZEWWbu" : {
+      "date" : "04.01.2016",
+      "id" : "002-004",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgaUJNZvtUBvQPfv" : {
+      "date" : "05.01.2016",
+      "id" : "002-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgaUJNZvtUBvQPfw" : {
+      "date" : "05.01.2016",
+      "id" : "002-004",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgaUJNZvtUBvQPfx" : {
+      "date" : "06.01.2016",
+      "id" : "002-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgaUJNZvtUBvQPfy" : {
+      "date" : "06.01.2016",
+      "id" : "002-004",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgaVAaYXKuzeL8Vh" : {
+      "date" : "07.01.2016",
+      "id" : "002-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgaVAaYXKuzeL8Vi" : {
+      "date" : "07.01.2016",
+      "id" : "002-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgaVAaYXKuzeL8Vj" : {
+      "date" : "08.01.2016",
+      "id" : "002-004",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgaVAaYXKuzeL8Vk" : {
+      "date" : "08.01.2016",
+      "id" : "002-004",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgaWpo-XLc2NWANJ" : {
+      "date" : "09.01.2016",
+      "id" : "002-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgaWpo-XLc2NWANK" : {
+      "date" : "09.01.2016",
+      "id" : "002-004",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgaWpo-XLc2NWANL" : {
+      "date" : "10.01.2016",
+      "id" : "002-004",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgaWpo-XLc2NWANM" : {
+      "date" : "10.01.2016",
+      "id" : "002-004",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgaX_kKHoUoC-fAq" : {
+      "date" : "11.01.2016",
+      "id" : "002-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgaX_kKHoUoC-fAr" : {
+      "date" : "11.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgaX_kKHoUoC-fAs" : {
+      "date" : "12.01.2016",
+      "id" : "002-004",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgaX_kKHoUoC-fAt" : {
+      "date" : "12.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgaY4798PyF2Vcx6" : {
+      "date" : "13.01.2016",
+      "id" : "002-004",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgaY4798PyF2Vcx7" : {
+      "date" : "13.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgaY4798PyF2Vcx8" : {
+      "date" : "14.01.2016",
+      "id" : "002-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgaZzQsuRf7SN649" : {
+      "date" : "14.01.2016",
+      "id" : "002-004",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgaZzQsuRf7SN64A" : {
+      "date" : "15.01.2016",
+      "id" : "002-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgaZzQsuRf7SN64B" : {
+      "date" : "15.01.2016",
+      "id" : "002-004",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgaZzQsuRf7SN64C" : {
+      "date" : "16.01.2016",
+      "id" : "002-004",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDga_ce5nkIKVIdSE" : {
+      "date" : "16.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDga_ce5nkIKVIdSF" : {
+      "date" : "17.01.2016",
+      "id" : "002-004",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDga_ce5nkIKVIdSG" : {
+      "date" : "17.01.2016",
+      "id" : "002-004",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDga_ce5nkIKVIdSH" : {
+      "date" : "18.01.2016",
+      "id" : "002-004",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgaaikeCfWXh5QXj" : {
+      "date" : "18.01.2016",
+      "id" : "002-004",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgaaikeCfWXh5QXk" : {
+      "date" : "19.01.2016",
+      "id" : "002-004",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgaaikeCfWXh5QXl" : {
+      "date" : "19.01.2016",
+      "id" : "002-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgaaikeCfWXh5QXm" : {
+      "date" : "20.01.2016",
+      "id" : "002-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgabvTTUnW4k4XsM" : {
+      "date" : "20.01.2016",
+      "id" : "002-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgabvTTUnW4k4XsN" : {
+      "date" : "21.01.2016",
+      "id" : "002-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgabvTTUnW4k4XsO" : {
+      "date" : "21.01.2016",
+      "id" : "002-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgabvTTUnW4k4XsP" : {
+      "date" : "22.01.2016",
+      "id" : "002-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgacJ3fs6lW7dufg" : {
+      "date" : "22.01.2016",
+      "id" : "002-004",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgacJ3fs6lW7dufh" : {
+      "date" : "23.01.2016",
+      "id" : "002-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgacJ3fs6lW7dufi" : {
+      "date" : "23.01.2016",
+      "id" : "002-004",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgacJ3fs6lW7dufj" : {
+      "date" : "24.01.2016",
+      "id" : "002-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgadk5h2Ngl_oS5Q" : {
+      "date" : "24.01.2016",
+      "id" : "002-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgadk5h2Ngl_oS5R" : {
+      "date" : "25.01.2016",
+      "id" : "002-004",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgadk5h2Ngl_oS5S" : {
+      "date" : "25.01.2016",
+      "id" : "002-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgaeBBh8K4vtyZdt" : {
+      "date" : "26.01.2016",
+      "id" : "002-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgaeBBh8K4vtyZdu" : {
+      "date" : "26.01.2016",
+      "id" : "002-004",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgaeBBh8K4vtyZdv" : {
+      "date" : "27.01.2016",
+      "id" : "002-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgaeBBh8K4vtyZdw" : {
+      "date" : "27.01.2016",
+      "id" : "002-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgafYwKuHVeY7VWk" : {
+      "date" : "28.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgafYwKuHVeY7VWl" : {
+      "date" : "28.01.2016",
+      "id" : "002-004",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgagId2pzgFM_BJo" : {
+      "date" : "29.01.2016",
+      "id" : "002-004",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgagId2pzgFM_BJp" : {
+      "date" : "29.01.2016",
+      "id" : "002-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgagId2pzgFM_BJq" : {
+      "date" : "30.01.2016",
+      "id" : "002-004",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgahWpjSF4bnQ5ZP" : {
+      "date" : "30.01.2016",
+      "id" : "002-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgahWpjSF4bnQ5ZQ" : {
+      "date" : "31.01.2016",
+      "id" : "002-004",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgahWpjSF4bnQ5ZR" : {
+      "date" : "31.01.2016",
+      "id" : "002-004",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgailYFyLB55Pfzz" : {
+      "date" : "01.01.2016",
+      "id" : "002-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgailYFyLB55Pg--" : {
+      "date" : "01.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgailYFyLB55Pg-0" : {
+      "date" : "02.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgajrRgpwiGcfBhT" : {
+      "date" : "02.01.2016",
+      "id" : "002-005",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgajrRgpwiGcfBhU" : {
+      "date" : "03.01.2016",
+      "id" : "002-005",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgajrRgpwiGcfBhV" : {
+      "date" : "03.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgajrRgpwiGcfBhW" : {
+      "date" : "04.01.2016",
+      "id" : "002-005",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgakX7CW4WXRyP-s" : {
+      "date" : "04.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgakX7CW4WXRyP-t" : {
+      "date" : "05.01.2016",
+      "id" : "002-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgakX7CW4WXRyP-u" : {
+      "date" : "05.01.2016",
+      "id" : "002-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgakX7CW4WXRyP-v" : {
+      "date" : "06.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgalc7gt-oF1uwBG" : {
+      "date" : "06.01.2016",
+      "id" : "002-005",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgalc7gt-oF1uwBH" : {
+      "date" : "07.01.2016",
+      "id" : "002-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgalc7gt-oF1uwBI" : {
+      "date" : "07.01.2016",
+      "id" : "002-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgalc7gt-oF1uwBJ" : {
+      "date" : "08.01.2016",
+      "id" : "002-005",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgam7cnwVnk09SJ2" : {
+      "date" : "08.01.2016",
+      "id" : "002-005",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgam7cnwVnk09SJ3" : {
+      "date" : "09.01.2016",
+      "id" : "002-005",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgam7cnwVnk09SJ4" : {
+      "date" : "09.01.2016",
+      "id" : "002-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgam7cnwVnk09SJ5" : {
+      "date" : "10.01.2016",
+      "id" : "002-005",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDganL_BOQfJPFFMM" : {
+      "date" : "10.01.2016",
+      "id" : "002-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDganL_BOQfJPFFMN" : {
+      "date" : "11.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDganL_BOQfJPFFMO" : {
+      "date" : "11.01.2016",
+      "id" : "002-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDganL_BOQfJPFFMP" : {
+      "date" : "12.01.2016",
+      "id" : "002-005",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgaoJ5H2eK_gErhs" : {
+      "date" : "12.01.2016",
+      "id" : "002-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgaoJ5H2eK_gErht" : {
+      "date" : "13.01.2016",
+      "id" : "002-005",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgaoJ5H2eK_gErhu" : {
+      "date" : "13.01.2016",
+      "id" : "002-005",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgaoJ5H2eK_gErhv" : {
+      "date" : "14.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgap-6laOuLRB9WG" : {
+      "date" : "14.01.2016",
+      "id" : "002-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgap-6laOuLRB9WH" : {
+      "date" : "15.01.2016",
+      "id" : "002-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgap-6laOuLRB9WI" : {
+      "date" : "15.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgap-6laOuLRB9WJ" : {
+      "date" : "16.01.2016",
+      "id" : "002-005",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgaqa5IMHMxvt5ie" : {
+      "date" : "16.01.2016",
+      "id" : "002-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgaqa5IMHMxvt5if" : {
+      "date" : "17.01.2016",
+      "id" : "002-005",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgaqa5IMHMxvt5ig" : {
+      "date" : "17.01.2016",
+      "id" : "002-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgaqa5IMHMxvt5ih" : {
+      "date" : "18.01.2016",
+      "id" : "002-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgargRIKd-ynyoVy" : {
+      "date" : "18.01.2016",
+      "id" : "002-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgargRIKd-ynyoVz" : {
+      "date" : "19.01.2016",
+      "id" : "002-005",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgargRIKd-ynyoW-" : {
+      "date" : "19.01.2016",
+      "id" : "002-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgargRIKd-ynyoW0" : {
+      "date" : "20.01.2016",
+      "id" : "002-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgaswiAuak3xS7rd" : {
+      "date" : "20.01.2016",
+      "id" : "002-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgaswiAuak3xS7re" : {
+      "date" : "21.01.2016",
+      "id" : "002-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgaswiAuak3xS7rf" : {
+      "date" : "21.01.2016",
+      "id" : "002-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgatGHV9j9Vn6ePf" : {
+      "date" : "22.01.2016",
+      "id" : "002-005",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgatGHV9j9Vn6ePg" : {
+      "date" : "22.01.2016",
+      "id" : "002-005",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgatGHV9j9Vn6ePh" : {
+      "date" : "23.01.2016",
+      "id" : "002-005",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgatGHV9j9Vn6ePi" : {
+      "date" : "23.01.2016",
+      "id" : "002-005",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgauPoy2MiLOHkHM" : {
+      "date" : "24.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgauPoy2MiLOHkHN" : {
+      "date" : "24.01.2016",
+      "id" : "002-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgauPoy2MiLOHkHO" : {
+      "date" : "25.01.2016",
+      "id" : "002-005",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgauPoy2MiLOHkHP" : {
+      "date" : "25.01.2016",
+      "id" : "002-005",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgavLHx9LNiW9UvX" : {
+      "date" : "26.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgavLHx9LNiW9UvY" : {
+      "date" : "26.01.2016",
+      "id" : "002-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgawZecLyaGIWspi" : {
+      "date" : "27.01.2016",
+      "id" : "002-005",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgawZecLyaGIWspj" : {
+      "date" : "27.01.2016",
+      "id" : "002-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgawZecLyaGIWspk" : {
+      "date" : "28.01.2016",
+      "id" : "002-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgaxWQVyP1d5lmwK" : {
+      "date" : "28.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgaxWQVyP1d5lmwL" : {
+      "date" : "29.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgaxWQVyP1d5lmwM" : {
+      "date" : "29.01.2016",
+      "id" : "002-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgaxWQVyP1d5lmwN" : {
+      "date" : "30.01.2016",
+      "id" : "002-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgay4dg-7rMOh3px" : {
+      "date" : "30.01.2016",
+      "id" : "002-005",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgay4dg-7rMOh3py" : {
+      "date" : "31.01.2016",
+      "id" : "002-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgay4dg-7rMOh3pz" : {
+      "date" : "31.01.2016",
+      "id" : "002-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgay4dg-7rMOh3q-" : {
+      "date" : "01.01.2016",
+      "id" : "003-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgazH0X6M6MoHE0R" : {
+      "date" : "01.01.2016",
+      "id" : "003-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgazH0X6M6MoHE0S" : {
+      "date" : "02.01.2016",
+      "id" : "003-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgazH0X6M6MoHE0T" : {
+      "date" : "02.01.2016",
+      "id" : "003-001",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgazH0X6M6MoHE0U" : {
+      "date" : "03.01.2016",
+      "id" : "003-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgb-cOl7TatKW0ow" : {
+      "date" : "03.01.2016",
+      "id" : "003-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgb-cOl7TatKW0ox" : {
+      "date" : "04.01.2016",
+      "id" : "003-001",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgb-cOl7TatKW0oy" : {
+      "date" : "04.01.2016",
+      "id" : "003-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgb-cOl7TatKW0oz" : {
+      "date" : "05.01.2016",
+      "id" : "003-001",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgb0q8YlG7cnuKrY" : {
+      "date" : "05.01.2016",
+      "id" : "003-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgb0q8YlG7cnuKrZ" : {
+      "date" : "06.01.2016",
+      "id" : "003-001",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgb0q8YlG7cnuKr_" : {
+      "date" : "06.01.2016",
+      "id" : "003-001",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgb0q8YlG7cnuKra" : {
+      "date" : "07.01.2016",
+      "id" : "003-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgb10azNs7HzdJUO" : {
+      "date" : "07.01.2016",
+      "id" : "003-001",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgb10azNs7HzdJUP" : {
+      "date" : "08.01.2016",
+      "id" : "003-001",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgb10azNs7HzdJUQ" : {
+      "date" : "08.01.2016",
+      "id" : "003-001",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgb29TRDCXpGYJ-G" : {
+      "date" : "09.01.2016",
+      "id" : "003-001",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgb29TRDCXpGYJ-H" : {
+      "date" : "09.01.2016",
+      "id" : "003-001",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgb29TRDCXpGYJ-I" : {
+      "date" : "10.01.2016",
+      "id" : "003-001",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgb3veQc2Y-2s2L3" : {
+      "date" : "10.01.2016",
+      "id" : "003-001",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgb3veQc2Y-2s2L4" : {
+      "date" : "11.01.2016",
+      "id" : "003-001",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgb3veQc2Y-2s2L5" : {
+      "date" : "11.01.2016",
+      "id" : "003-001",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgb4nrLYdnwhHD0_" : {
+      "date" : "12.01.2016",
+      "id" : "003-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgb4nrLYdnwhHD0a" : {
+      "date" : "12.01.2016",
+      "id" : "003-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgb4nrLYdnwhHD0b" : {
+      "date" : "13.01.2016",
+      "id" : "003-001",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgb4nrLYdnwhHD0c" : {
+      "date" : "13.01.2016",
+      "id" : "003-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgb5YmS2Oi8tqW2b" : {
+      "date" : "14.01.2016",
+      "id" : "003-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgb5YmS2Oi8tqW2c" : {
+      "date" : "14.01.2016",
+      "id" : "003-001",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgb5YmS2Oi8tqW2d" : {
+      "date" : "15.01.2016",
+      "id" : "003-001",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgb5YmS2Oi8tqW2e" : {
+      "date" : "15.01.2016",
+      "id" : "003-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgb5YmS2Oi8tqW2f" : {
+      "date" : "16.01.2016",
+      "id" : "003-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgb6YgVT0oxgR7e8" : {
+      "date" : "16.01.2016",
+      "id" : "003-001",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgb6YgVT0oxgR7e9" : {
+      "date" : "17.01.2016",
+      "id" : "003-001",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgb6YgVT0oxgR7eA" : {
+      "date" : "17.01.2016",
+      "id" : "003-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgb6YgVT0oxgR7eB" : {
+      "date" : "18.01.2016",
+      "id" : "003-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgb7ldFeqIz8634b" : {
+      "date" : "18.01.2016",
+      "id" : "003-001",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgb7ldFeqIz8634c" : {
+      "date" : "19.01.2016",
+      "id" : "003-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgbAp9G2LL9Tvcpo" : {
+      "date" : "19.01.2016",
+      "id" : "003-001",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbAp9G2LL9Tvcpp" : {
+      "date" : "20.01.2016",
+      "id" : "003-001",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgbByPR5hplf_ZQB" : {
+      "date" : "20.01.2016",
+      "id" : "003-001",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgbByPR5hplf_ZQC" : {
+      "date" : "21.01.2016",
+      "id" : "003-001",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgbByPR5hplf_ZQD" : {
+      "date" : "21.01.2016",
+      "id" : "003-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgbC-sFqIgANElXJ" : {
+      "date" : "22.01.2016",
+      "id" : "003-001",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgbC-sFqIgANElXK" : {
+      "date" : "22.01.2016",
+      "id" : "003-001",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgbC-sFqIgANElXL" : {
+      "date" : "23.01.2016",
+      "id" : "003-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgbC-sFqIgANElXM" : {
+      "date" : "23.01.2016",
+      "id" : "003-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgbDlFIW9_9x7Rn6" : {
+      "date" : "24.01.2016",
+      "id" : "003-001",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgbDlFIW9_9x7Rn7" : {
+      "date" : "24.01.2016",
+      "id" : "003-001",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbDlFIW9_9x7Rn8" : {
+      "date" : "25.01.2016",
+      "id" : "003-001",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgbDlFIW9_9x7Rn9" : {
+      "date" : "25.01.2016",
+      "id" : "003-001",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgbEHTFmtqz4wsv7" : {
+      "date" : "26.01.2016",
+      "id" : "003-001",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgbEHTFmtqz4wsv8" : {
+      "date" : "26.01.2016",
+      "id" : "003-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgbEHTFmtqz4wsv9" : {
+      "date" : "27.01.2016",
+      "id" : "003-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgbEHTFmtqz4wsvA" : {
+      "date" : "27.01.2016",
+      "id" : "003-001",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbFIg2wTjdPuMfu" : {
+      "date" : "28.01.2016",
+      "id" : "003-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgbFIg2wTjdPuMfv" : {
+      "date" : "28.01.2016",
+      "id" : "003-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbFIg2wTjdPuMfw" : {
+      "date" : "29.01.2016",
+      "id" : "003-001",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgbFIg2wTjdPuMfx" : {
+      "date" : "29.01.2016",
+      "id" : "003-001",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgbGBoUbdPPr5bk9" : {
+      "date" : "30.01.2016",
+      "id" : "003-001",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgbGBoUbdPPr5bkA" : {
+      "date" : "30.01.2016",
+      "id" : "003-001",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgbGBoUbdPPr5bkB" : {
+      "date" : "31.01.2016",
+      "id" : "003-001",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgbGBoUbdPPr5bkC" : {
+      "date" : "31.01.2016",
+      "id" : "003-001",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgbHVjiCJTUsS_ao" : {
+      "date" : "01.01.2016",
+      "id" : "003-002",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgbHVjiCJTUsS_ap" : {
+      "date" : "01.01.2016",
+      "id" : "003-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbHVjiCJTUsS_aq" : {
+      "date" : "02.01.2016",
+      "id" : "003-002",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgbHVjiCJTUsS_ar" : {
+      "date" : "02.01.2016",
+      "id" : "003-002",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgbIgucygRZm7-TF" : {
+      "date" : "03.01.2016",
+      "id" : "003-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbIgucygRZm7-TG" : {
+      "date" : "03.01.2016",
+      "id" : "003-002",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgbIgucygRZm7-TH" : {
+      "date" : "04.01.2016",
+      "id" : "003-002",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgbJxct0DQErOQFc" : {
+      "date" : "04.01.2016",
+      "id" : "003-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbJxct0DQErOQFd" : {
+      "date" : "05.01.2016",
+      "id" : "003-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbJxct0DQErOQFe" : {
+      "date" : "05.01.2016",
+      "id" : "003-002",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgbJxct0DQErOQFf" : {
+      "date" : "06.01.2016",
+      "id" : "003-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgbKA_zSem7MABKc" : {
+      "date" : "06.01.2016",
+      "id" : "003-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbKA_zSem7MABKd" : {
+      "date" : "07.01.2016",
+      "id" : "003-002",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgbKA_zSem7MABKe" : {
+      "date" : "07.01.2016",
+      "id" : "003-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbKA_zSem7MABKf" : {
+      "date" : "08.01.2016",
+      "id" : "003-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbL_7dfF1bSm-lY" : {
+      "date" : "08.01.2016",
+      "id" : "003-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbL_7dfF1bSm-lZ" : {
+      "date" : "09.01.2016",
+      "id" : "003-002",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgbL_7dfF1bSm-l_" : {
+      "date" : "09.01.2016",
+      "id" : "003-002",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgbL_7dfF1bSm-la" : {
+      "date" : "10.01.2016",
+      "id" : "003-002",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgbM6OEAwmjURokJ" : {
+      "date" : "10.01.2016",
+      "id" : "003-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgbM6OEAwmjURokK" : {
+      "date" : "11.01.2016",
+      "id" : "003-002",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgbM6OEAwmjURokL" : {
+      "date" : "11.01.2016",
+      "id" : "003-002",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgbM6OEAwmjURokM" : {
+      "date" : "12.01.2016",
+      "id" : "003-002",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgbNOtGMPp0j1Tgn" : {
+      "date" : "12.01.2016",
+      "id" : "003-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbOnE6zi90ME2RT" : {
+      "date" : "13.01.2016",
+      "id" : "003-002",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgbOnE6zi90ME2RU" : {
+      "date" : "13.01.2016",
+      "id" : "003-002",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgbPKdJlgP2tla0w" : {
+      "date" : "14.01.2016",
+      "id" : "003-002",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgbPKdJlgP2tla0x" : {
+      "date" : "14.01.2016",
+      "id" : "003-002",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgbPKdJlgP2tla0y" : {
+      "date" : "15.01.2016",
+      "id" : "003-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgbPKdJlgP2tla0z" : {
+      "date" : "15.01.2016",
+      "id" : "003-002",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgbQ1_aOhyMaI53O" : {
+      "date" : "16.01.2016",
+      "id" : "003-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbQ1_aOhyMaI53P" : {
+      "date" : "16.01.2016",
+      "id" : "003-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgbQ1_aOhyMaI53Q" : {
+      "date" : "17.01.2016",
+      "id" : "003-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgbRMFPQzqET8rik" : {
+      "date" : "17.01.2016",
+      "id" : "003-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbRMFPQzqET8ril" : {
+      "date" : "18.01.2016",
+      "id" : "003-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgbRMFPQzqET8rim" : {
+      "date" : "18.01.2016",
+      "id" : "003-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbRMFPQzqET8rin" : {
+      "date" : "19.01.2016",
+      "id" : "003-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgbSgcQu6dfwGb1G" : {
+      "date" : "19.01.2016",
+      "id" : "003-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbSgcQu6dfwGb1H" : {
+      "date" : "20.01.2016",
+      "id" : "003-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgbSgcQu6dfwGb1I" : {
+      "date" : "20.01.2016",
+      "id" : "003-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgbTtrM5rUPR14hk" : {
+      "date" : "21.01.2016",
+      "id" : "003-002",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgbTtrM5rUPR14hl" : {
+      "date" : "21.01.2016",
+      "id" : "003-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbTtrM5rUPR14hm" : {
+      "date" : "22.01.2016",
+      "id" : "003-002",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgbTtrM5rUPR14hn" : {
+      "date" : "22.01.2016",
+      "id" : "003-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbU76ZhCueU67u0" : {
+      "date" : "23.01.2016",
+      "id" : "003-002",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgbU76ZhCueU67u1" : {
+      "date" : "23.01.2016",
+      "id" : "003-002",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgbU76ZhCueU67u2" : {
+      "date" : "24.01.2016",
+      "id" : "003-002",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgbVcIFh0MNbT3Xf" : {
+      "date" : "24.01.2016",
+      "id" : "003-002",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgbVcIFh0MNbT3Xg" : {
+      "date" : "25.01.2016",
+      "id" : "003-002",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgbVcIFh0MNbT3Xh" : {
+      "date" : "25.01.2016",
+      "id" : "003-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgbVcIFh0MNbT3Xi" : {
+      "date" : "26.01.2016",
+      "id" : "003-002",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgbW3J8uv5cvK5kH" : {
+      "date" : "26.01.2016",
+      "id" : "003-002",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgbW3J8uv5cvK5kI" : {
+      "date" : "27.01.2016",
+      "id" : "003-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgbW3J8uv5cvK5kJ" : {
+      "date" : "27.01.2016",
+      "id" : "003-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbW3J8uv5cvK5kK" : {
+      "date" : "28.01.2016",
+      "id" : "003-002",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgbXNILn3qqxZnRV" : {
+      "date" : "28.01.2016",
+      "id" : "003-002",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgbXNILn3qqxZnRW" : {
+      "date" : "29.01.2016",
+      "id" : "003-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgbXNILn3qqxZnRX" : {
+      "date" : "29.01.2016",
+      "id" : "003-002",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgbXNILn3qqxZnRY" : {
+      "date" : "30.01.2016",
+      "id" : "003-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgbYUDv2DGXThhGD" : {
+      "date" : "30.01.2016",
+      "id" : "003-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgbYUDv2DGXThhGE" : {
+      "date" : "31.01.2016",
+      "id" : "003-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgbYUDv2DGXThhGF" : {
+      "date" : "31.01.2016",
+      "id" : "003-002",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgbZzVmVO8hlsPiS" : {
+      "date" : "01.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgbZzVmVO8hlsPiT" : {
+      "date" : "01.01.2016",
+      "id" : "003-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbZzVmVO8hlsPiU" : {
+      "date" : "02.01.2016",
+      "id" : "003-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgbZzVmVO8hlsPiV" : {
+      "date" : "02.01.2016",
+      "id" : "003-004",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgb_nkcpTTAyb14b" : {
+      "date" : "03.01.2016",
+      "id" : "003-004",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgb_nkcpTTAyb14c" : {
+      "date" : "03.01.2016",
+      "id" : "003-004",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgb_nkcpTTAyb14d" : {
+      "date" : "04.01.2016",
+      "id" : "003-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgb_nkcpTTAyb14e" : {
+      "date" : "04.01.2016",
+      "id" : "003-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgbahdIK3Y4aCJFt" : {
+      "date" : "05.01.2016",
+      "id" : "003-004",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgbahdIK3Y4aCJFu" : {
+      "date" : "05.01.2016",
+      "id" : "003-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgbahdIK3Y4aCJFv" : {
+      "date" : "06.01.2016",
+      "id" : "003-004",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgbahdIK3Y4aCJFw" : {
+      "date" : "06.01.2016",
+      "id" : "003-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgbbZwyZSL0oC965" : {
+      "date" : "07.01.2016",
+      "id" : "003-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbbZwyZSL0oC966" : {
+      "date" : "07.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbbZwyZSL0oC967" : {
+      "date" : "08.01.2016",
+      "id" : "003-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgbbZwyZSL0oC968" : {
+      "date" : "08.01.2016",
+      "id" : "003-004",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgbc2isWrOI_Gn5N" : {
+      "date" : "09.01.2016",
+      "id" : "003-004",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgbc2isWrOI_Gn5O" : {
+      "date" : "09.01.2016",
+      "id" : "003-004",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgbc2isWrOI_Gn5P" : {
+      "date" : "10.01.2016",
+      "id" : "003-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgbc2isWrOI_Gn5Q" : {
+      "date" : "10.01.2016",
+      "id" : "003-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgbdEfBwVeC9PoBF" : {
+      "date" : "11.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgbdEfBwVeC9PoBG" : {
+      "date" : "11.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbdEfBwVeC9PoBH" : {
+      "date" : "12.01.2016",
+      "id" : "003-004",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgbdEfBwVeC9PoBI" : {
+      "date" : "12.01.2016",
+      "id" : "003-004",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbeuzoYS1taui1i" : {
+      "date" : "13.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgbeuzoYS1taui1j" : {
+      "date" : "13.01.2016",
+      "id" : "003-004",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgbgr-hVvLWzsLn8" : {
+      "date" : "14.01.2016",
+      "id" : "003-004",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgbh7l8FoK_UgCY1" : {
+      "date" : "14.01.2016",
+      "id" : "003-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbiXg9I3-jVSasz" : {
+      "date" : "15.01.2016",
+      "id" : "003-004",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgbiXg9I3-jVSat-" : {
+      "date" : "15.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbiXg9I3-jVSat0" : {
+      "date" : "16.01.2016",
+      "id" : "003-004",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgbiXg9I3-jVSat1" : {
+      "date" : "16.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbjAcnbtKkKnNAC" : {
+      "date" : "17.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgbjAcnbtKkKnNAD" : {
+      "date" : "17.01.2016",
+      "id" : "003-004",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgbjAcnbtKkKnNAE" : {
+      "date" : "18.01.2016",
+      "id" : "003-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbjAcnbtKkKnNAF" : {
+      "date" : "18.01.2016",
+      "id" : "003-004",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgbkkaZnsFSasUe3" : {
+      "date" : "19.01.2016",
+      "id" : "003-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgbkkaZnsFSasUe4" : {
+      "date" : "19.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbkkaZnsFSasUe5" : {
+      "date" : "20.01.2016",
+      "id" : "003-004",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgblJdNTXtCpd3Kp" : {
+      "date" : "20.01.2016",
+      "id" : "003-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgblJdNTXtCpd3Kq" : {
+      "date" : "21.01.2016",
+      "id" : "003-004",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgblJdNTXtCpd3Kr" : {
+      "date" : "21.01.2016",
+      "id" : "003-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbmlNtP-otkqAX4" : {
+      "date" : "22.01.2016",
+      "id" : "003-004",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgbmlNtP-otkqAX5" : {
+      "date" : "22.01.2016",
+      "id" : "003-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgbmlNtP-otkqAX6" : {
+      "date" : "23.01.2016",
+      "id" : "003-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgbmlNtP-otkqAX7" : {
+      "date" : "23.01.2016",
+      "id" : "003-004",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgbnxEz_l407HVHy" : {
+      "date" : "24.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgbnxEz_l407HVHz" : {
+      "date" : "24.01.2016",
+      "id" : "003-004",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbnxEz_l407HVI-" : {
+      "date" : "25.01.2016",
+      "id" : "003-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgbnxEz_l407HVI0" : {
+      "date" : "25.01.2016",
+      "id" : "003-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgboMMTkukOGlI9X" : {
+      "date" : "26.01.2016",
+      "id" : "003-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgboMMTkukOGlI9Y" : {
+      "date" : "26.01.2016",
+      "id" : "003-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgboMMTkukOGlI9Z" : {
+      "date" : "27.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgbpKVNxvYrsExkI" : {
+      "date" : "27.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbpKVNxvYrsExkJ" : {
+      "date" : "28.01.2016",
+      "id" : "003-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgbpKVNxvYrsExkK" : {
+      "date" : "28.01.2016",
+      "id" : "003-004",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgbpKVNxvYrsExkL" : {
+      "date" : "29.01.2016",
+      "id" : "003-004",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgbq2TBhTufH_p1W" : {
+      "date" : "29.01.2016",
+      "id" : "003-004",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgbq2TBhTufH_p1X" : {
+      "date" : "30.01.2016",
+      "id" : "003-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgbq2TBhTufH_p1Y" : {
+      "date" : "30.01.2016",
+      "id" : "003-004",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgbq2TBhTufH_p1Z" : {
+      "date" : "31.01.2016",
+      "id" : "003-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgbrsgzpbFuxu4i5" : {
+      "date" : "31.01.2016",
+      "id" : "003-004",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgbrsgzpbFuxu4i6" : {
+      "date" : "01.01.2016",
+      "id" : "003-005",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgbrsgzpbFuxu4i7" : {
+      "date" : "01.01.2016",
+      "id" : "003-005",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgbrsgzpbFuxu4i8" : {
+      "date" : "02.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgbtMDrI-Xj_UjP9" : {
+      "date" : "02.01.2016",
+      "id" : "003-005",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgbtMDrI-Xj_UjPA" : {
+      "date" : "03.01.2016",
+      "id" : "003-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgbtMDrI-Xj_UjPB" : {
+      "date" : "03.01.2016",
+      "id" : "003-005",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbuoZSYns8jU63n" : {
+      "date" : "04.01.2016",
+      "id" : "003-005",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgbuoZSYns8jU63o" : {
+      "date" : "04.01.2016",
+      "id" : "003-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgbuoZSYns8jU63p" : {
+      "date" : "05.01.2016",
+      "id" : "003-005",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgbvEp7hluemDR9t" : {
+      "date" : "05.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgbvEp7hluemDR9u" : {
+      "date" : "06.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgbvEp7hluemDR9v" : {
+      "date" : "06.01.2016",
+      "id" : "003-005",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgbvEp7hluemDR9w" : {
+      "date" : "07.01.2016",
+      "id" : "003-005",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgbvEp7hluemDR9x" : {
+      "date" : "07.01.2016",
+      "id" : "003-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgbwDeCTQZ9OOhFu" : {
+      "date" : "08.01.2016",
+      "id" : "003-005",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgbwDeCTQZ9OOhFv" : {
+      "date" : "08.01.2016",
+      "id" : "003-005",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgbwDeCTQZ9OOhFw" : {
+      "date" : "09.01.2016",
+      "id" : "003-005",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgbwDeCTQZ9OOhFx" : {
+      "date" : "09.01.2016",
+      "id" : "003-005",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgbxqCzxwUn5vLnh" : {
+      "date" : "10.01.2016",
+      "id" : "003-005",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgbxqCzxwUn5vLni" : {
+      "date" : "10.01.2016",
+      "id" : "003-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgbxqCzxwUn5vLnj" : {
+      "date" : "11.01.2016",
+      "id" : "003-005",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgbxqCzxwUn5vLnk" : {
+      "date" : "11.01.2016",
+      "id" : "003-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgbyQOlCVNs46_rR" : {
+      "date" : "12.01.2016",
+      "id" : "003-005",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgbyQOlCVNs46_rS" : {
+      "date" : "12.01.2016",
+      "id" : "003-005",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgbyQOlCVNs46_rT" : {
+      "date" : "13.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgbyQOlCVNs46_rU" : {
+      "date" : "13.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgc-8LandcQJVhiU" : {
+      "date" : "14.01.2016",
+      "id" : "003-005",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgc-8LandcQJVhiV" : {
+      "date" : "14.01.2016",
+      "id" : "003-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgc-8LandcQJVhiW" : {
+      "date" : "15.01.2016",
+      "id" : "003-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgc-8LandcQJVhiX" : {
+      "date" : "15.01.2016",
+      "id" : "003-005",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgc0Ho8Y_m3iMTlZ" : {
+      "date" : "16.01.2016",
+      "id" : "003-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgc0Ho8Y_m3iMTl_" : {
+      "date" : "16.01.2016",
+      "id" : "003-005",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgc0Ho8Y_m3iMTla" : {
+      "date" : "17.01.2016",
+      "id" : "003-005",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgc0Ho8Y_m3iMTlb" : {
+      "date" : "17.01.2016",
+      "id" : "003-005",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgc1r8LW5Zd_UF6J" : {
+      "date" : "18.01.2016",
+      "id" : "003-005",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgc1r8LW5Zd_UF6K" : {
+      "date" : "18.01.2016",
+      "id" : "003-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgc4XQLS1XKSTNXK" : {
+      "date" : "19.01.2016",
+      "id" : "003-005",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgc5I2hnc1Qpd9Yy" : {
+      "date" : "19.01.2016",
+      "id" : "003-005",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgc5I2hnc1Qpd9Yz" : {
+      "date" : "20.01.2016",
+      "id" : "003-005",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgc5I2hnc1Qpd9Z-" : {
+      "date" : "20.01.2016",
+      "id" : "003-005",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgc6rIlYBfJEUzQW" : {
+      "date" : "21.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgc6rIlYBfJEUzQX" : {
+      "date" : "21.01.2016",
+      "id" : "003-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgc6rIlYBfJEUzQY" : {
+      "date" : "22.01.2016",
+      "id" : "003-005",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgc6rIlYBfJEUzQZ" : {
+      "date" : "22.01.2016",
+      "id" : "003-005",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgc7AsThloxK3xKL" : {
+      "date" : "23.01.2016",
+      "id" : "003-005",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgc7AsThloxK3xKM" : {
+      "date" : "23.01.2016",
+      "id" : "003-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgc7AsThloxK3xKN" : {
+      "date" : "24.01.2016",
+      "id" : "003-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgc7AsThloxK3xKO" : {
+      "date" : "24.01.2016",
+      "id" : "003-005",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgc8TUTPNG7HadTO" : {
+      "date" : "25.01.2016",
+      "id" : "003-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgc8TUTPNG7HadTP" : {
+      "date" : "25.01.2016",
+      "id" : "003-005",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgc9Wn707Tb0tg6q" : {
+      "date" : "26.01.2016",
+      "id" : "003-005",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgc9Wn707Tb0tg6r" : {
+      "date" : "26.01.2016",
+      "id" : "003-005",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgc9Wn707Tb0tg6s" : {
+      "date" : "27.01.2016",
+      "id" : "003-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgc9Wn707Tb0tg6t" : {
+      "date" : "27.01.2016",
+      "id" : "003-005",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgcAikuiwHvs8BAM" : {
+      "date" : "28.01.2016",
+      "id" : "003-005",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgcAikuiwHvs8BAN" : {
+      "date" : "28.01.2016",
+      "id" : "003-005",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgcAikuiwHvs8BAO" : {
+      "date" : "29.01.2016",
+      "id" : "003-005",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgcAikuiwHvs8BAP" : {
+      "date" : "29.01.2016",
+      "id" : "003-005",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgcBRP9jLK-4YWGj" : {
+      "date" : "30.01.2016",
+      "id" : "003-005",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcBRP9jLK-4YWGk" : {
+      "date" : "30.01.2016",
+      "id" : "003-005",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgcBRP9jLK-4YWGl" : {
+      "date" : "31.01.2016",
+      "id" : "003-005",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgcBRP9jLK-4YWGm" : {
+      "date" : "31.01.2016",
+      "id" : "003-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgcCkmcOUB85Ne0P" : {
+      "date" : "01.01.2016",
+      "id" : "004-001",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgcCkmcOUB85Ne0Q" : {
+      "date" : "01.01.2016",
+      "id" : "004-001",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgcCkmcOUB85Ne0R" : {
+      "date" : "02.01.2016",
+      "id" : "004-001",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgcCkmcOUB85Ne0S" : {
+      "date" : "02.01.2016",
+      "id" : "004-001",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgcD7jzRRBtUJvMR" : {
+      "date" : "03.01.2016",
+      "id" : "004-001",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgcD7jzRRBtUJvMS" : {
+      "date" : "03.01.2016",
+      "id" : "004-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgcD7jzRRBtUJvMT" : {
+      "date" : "04.01.2016",
+      "id" : "004-001",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgcD7jzRRBtUJvMU" : {
+      "date" : "04.01.2016",
+      "id" : "004-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgcEg1AzjOqmmZck" : {
+      "date" : "05.01.2016",
+      "id" : "004-001",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgcEg1AzjOqmmZcl" : {
+      "date" : "05.01.2016",
+      "id" : "004-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgcEg1AzjOqmmZcm" : {
+      "date" : "06.01.2016",
+      "id" : "004-001",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgcEg1AzjOqmmZcn" : {
+      "date" : "06.01.2016",
+      "id" : "004-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgcFhHmP7JMrc4AT" : {
+      "date" : "07.01.2016",
+      "id" : "004-001",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgcFhHmP7JMrc4AU" : {
+      "date" : "07.01.2016",
+      "id" : "004-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgcFhHmP7JMrc4AV" : {
+      "date" : "08.01.2016",
+      "id" : "004-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgcFhHmP7JMrc4AW" : {
+      "date" : "08.01.2016",
+      "id" : "004-001",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgcGjfOt-KEKPSN4" : {
+      "date" : "09.01.2016",
+      "id" : "004-001",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgcGjfOt-KEKPSN5" : {
+      "date" : "09.01.2016",
+      "id" : "004-001",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgcGjfOt-KEKPSN6" : {
+      "date" : "10.01.2016",
+      "id" : "004-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgcHE0U2lKXK1j3J" : {
+      "date" : "10.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgcHE0U2lKXK1j3K" : {
+      "date" : "11.01.2016",
+      "id" : "004-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgcHE0U2lKXK1j3L" : {
+      "date" : "11.01.2016",
+      "id" : "004-001",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgcHE0U2lKXK1j3M" : {
+      "date" : "12.01.2016",
+      "id" : "004-001",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgcIiVTbrtY_bi1P" : {
+      "date" : "12.01.2016",
+      "id" : "004-001",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgcIiVTbrtY_bi1Q" : {
+      "date" : "13.01.2016",
+      "id" : "004-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgcIiVTbrtY_bi1R" : {
+      "date" : "13.01.2016",
+      "id" : "004-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgcIiVTbrtY_bi1S" : {
+      "date" : "14.01.2016",
+      "id" : "004-001",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgcJ1vX-Xe--TVUJ" : {
+      "date" : "14.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgcJ1vX-Xe--TVUK" : {
+      "date" : "15.01.2016",
+      "id" : "004-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgcJ1vX-Xe--TVUL" : {
+      "date" : "15.01.2016",
+      "id" : "004-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgcKR0t6yLy11J8A" : {
+      "date" : "16.01.2016",
+      "id" : "004-001",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgcKR0t6yLy11J8B" : {
+      "date" : "16.01.2016",
+      "id" : "004-001",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgcKR0t6yLy11J8C" : {
+      "date" : "17.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcLkf6dvtg_XggA" : {
+      "date" : "17.01.2016",
+      "id" : "004-001",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgcLkf6dvtg_XggB" : {
+      "date" : "18.01.2016",
+      "id" : "004-001",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgcLkf6dvtg_XggC" : {
+      "date" : "18.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgcLkf6dvtg_XggD" : {
+      "date" : "19.01.2016",
+      "id" : "004-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgcMJSLsMAJEKdOD" : {
+      "date" : "19.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgcMJSLsMAJEKdOE" : {
+      "date" : "20.01.2016",
+      "id" : "004-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgcMJSLsMAJEKdOF" : {
+      "date" : "20.01.2016",
+      "id" : "004-001",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgcMJSLsMAJEKdOG" : {
+      "date" : "21.01.2016",
+      "id" : "004-001",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgcNgjjJvZlkobBq" : {
+      "date" : "21.01.2016",
+      "id" : "004-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgcNgjjJvZlkobBr" : {
+      "date" : "22.01.2016",
+      "id" : "004-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgcNgjjJvZlkobBs" : {
+      "date" : "22.01.2016",
+      "id" : "004-001",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgcNgjjJvZlkobBt" : {
+      "date" : "23.01.2016",
+      "id" : "004-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgcOd3eUy6Y5g5z3" : {
+      "date" : "23.01.2016",
+      "id" : "004-001",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgcOd3eUy6Y5g5z4" : {
+      "date" : "24.01.2016",
+      "id" : "004-001",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgcOd3eUy6Y5g5z5" : {
+      "date" : "24.01.2016",
+      "id" : "004-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgcPqZRVRStMPFga" : {
+      "date" : "25.01.2016",
+      "id" : "004-001",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgcPqZRVRStMPFgb" : {
+      "date" : "25.01.2016",
+      "id" : "004-001",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgcPqZRVRStMPFgc" : {
+      "date" : "26.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcPqZRVRStMPFgd" : {
+      "date" : "26.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgcQn-bJi_1zv4E7" : {
+      "date" : "27.01.2016",
+      "id" : "004-001",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgcQn-bJi_1zv4E8" : {
+      "date" : "27.01.2016",
+      "id" : "004-001",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgcQn-bJi_1zv4E9" : {
+      "date" : "28.01.2016",
+      "id" : "004-001",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgcQn-bJi_1zv4EA" : {
+      "date" : "28.01.2016",
+      "id" : "004-001",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgcR-H9WZ-_aBaLa" : {
+      "date" : "29.01.2016",
+      "id" : "004-001",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgcR-H9WZ-_aBaLb" : {
+      "date" : "29.01.2016",
+      "id" : "004-001",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgcR-H9WZ-_aBaLc" : {
+      "date" : "30.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcSQB28HWRoMYXL" : {
+      "date" : "30.01.2016",
+      "id" : "004-001",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgcSQB28HWRoMYXM" : {
+      "date" : "31.01.2016",
+      "id" : "004-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcTtt7r6ZJ_wwlZ" : {
+      "date" : "31.01.2016",
+      "id" : "004-001",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgcTtt7r6ZJ_wwl_" : {
+      "date" : "01.01.2016",
+      "id" : "004-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgcTtt7r6ZJ_wwla" : {
+      "date" : "01.01.2016",
+      "id" : "004-002",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgcUbh9ZRtsevjWM" : {
+      "date" : "02.01.2016",
+      "id" : "004-002",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgcUbh9ZRtsevjWN" : {
+      "date" : "02.01.2016",
+      "id" : "004-002",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgcUbh9ZRtsevjWO" : {
+      "date" : "03.01.2016",
+      "id" : "004-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgcUbh9ZRtsevjWP" : {
+      "date" : "03.01.2016",
+      "id" : "004-002",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgcV4vWb0Hh3Y9tl" : {
+      "date" : "04.01.2016",
+      "id" : "004-002",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgcV4vWb0Hh3Y9tm" : {
+      "date" : "04.01.2016",
+      "id" : "004-002",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgcV4vWb0Hh3Y9tn" : {
+      "date" : "05.01.2016",
+      "id" : "004-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgcV4vWb0Hh3Y9to" : {
+      "date" : "05.01.2016",
+      "id" : "004-002",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgcWsjZiFjnEzyq7" : {
+      "date" : "06.01.2016",
+      "id" : "004-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgcWsjZiFjnEzyq8" : {
+      "date" : "06.01.2016",
+      "id" : "004-002",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgcWsjZiFjnEzyq9" : {
+      "date" : "07.01.2016",
+      "id" : "004-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgcWsjZiFjnEzyqA" : {
+      "date" : "07.01.2016",
+      "id" : "004-002",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgcXhWnzGxrCGuH5" : {
+      "date" : "08.01.2016",
+      "id" : "004-002",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgcXhWnzGxrCGuH6" : {
+      "date" : "08.01.2016",
+      "id" : "004-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgcXhWnzGxrCGuH7" : {
+      "date" : "09.01.2016",
+      "id" : "004-002",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgcXhWnzGxrCGuH8" : {
+      "date" : "09.01.2016",
+      "id" : "004-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgcYUWkRg478JKiv" : {
+      "date" : "10.01.2016",
+      "id" : "004-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgcYUWkRg478JKiw" : {
+      "date" : "10.01.2016",
+      "id" : "004-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgcYUWkRg478JKix" : {
+      "date" : "11.01.2016",
+      "id" : "004-002",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcZoQHnO02aWifl" : {
+      "date" : "11.01.2016",
+      "id" : "004-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgcZoQHnO02aWifm" : {
+      "date" : "12.01.2016",
+      "id" : "004-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgcZoQHnO02aWifn" : {
+      "date" : "12.01.2016",
+      "id" : "004-002",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgcZoQHnO02aWifo" : {
+      "date" : "13.01.2016",
+      "id" : "004-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgc_S1iVvBM64dpL" : {
+      "date" : "13.01.2016",
+      "id" : "004-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgc_S1iVvBM64dpM" : {
+      "date" : "14.01.2016",
+      "id" : "004-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgc_S1iVvBM64dpN" : {
+      "date" : "14.01.2016",
+      "id" : "004-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgc_S1iVvBM64dpO" : {
+      "date" : "15.01.2016",
+      "id" : "004-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgcaiE_MEOS09P1k" : {
+      "date" : "15.01.2016",
+      "id" : "004-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgcaiE_MEOS09P1l" : {
+      "date" : "16.01.2016",
+      "id" : "004-002",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgcaiE_MEOS09P1m" : {
+      "date" : "16.01.2016",
+      "id" : "004-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgcaiE_MEOS09P1n" : {
+      "date" : "17.01.2016",
+      "id" : "004-002",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgcb8w56A41EVi1h" : {
+      "date" : "17.01.2016",
+      "id" : "004-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgcb8w56A41EVi1i" : {
+      "date" : "18.01.2016",
+      "id" : "004-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgcb8w56A41EVi1j" : {
+      "date" : "18.01.2016",
+      "id" : "004-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgccygM05zEqsjV_" : {
+      "date" : "19.01.2016",
+      "id" : "004-002",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgccygM05zEqsjVa" : {
+      "date" : "19.01.2016",
+      "id" : "004-002",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgccygM05zEqsjVb" : {
+      "date" : "20.01.2016",
+      "id" : "004-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgccygM05zEqsjVc" : {
+      "date" : "20.01.2016",
+      "id" : "004-002",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgcdKGIPP6QneJNE" : {
+      "date" : "21.01.2016",
+      "id" : "004-002",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgcdKGIPP6QneJNF" : {
+      "date" : "21.01.2016",
+      "id" : "004-002",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgcdKGIPP6QneJNG" : {
+      "date" : "22.01.2016",
+      "id" : "004-002",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgcdKGIPP6QneJNH" : {
+      "date" : "22.01.2016",
+      "id" : "004-002",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgcg8ieBvLM3QV8s" : {
+      "date" : "23.01.2016",
+      "id" : "004-002",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgchzQqTK4LtXXAU" : {
+      "date" : "23.01.2016",
+      "id" : "004-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgchzQqTK4LtXXAV" : {
+      "date" : "24.01.2016",
+      "id" : "004-002",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgchzQqTK4LtXXAW" : {
+      "date" : "24.01.2016",
+      "id" : "004-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgchzQqTK4LtXXAX" : {
+      "date" : "25.01.2016",
+      "id" : "004-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgciHgoGqvqMArPv" : {
+      "date" : "25.01.2016",
+      "id" : "004-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgcjm_8UpUGJdADY" : {
+      "date" : "26.01.2016",
+      "id" : "004-002",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgck2fBKK2-0gaa_" : {
+      "date" : "26.01.2016",
+      "id" : "004-002",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgck2fBKK2-0gaaa" : {
+      "date" : "27.01.2016",
+      "id" : "004-002",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgcltb5xqXzUf3Ld" : {
+      "date" : "27.01.2016",
+      "id" : "004-002",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgcmct0iL8OiQdbH" : {
+      "date" : "28.01.2016",
+      "id" : "004-002",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgcmct0iL8OiQdbI" : {
+      "date" : "28.01.2016",
+      "id" : "004-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgcnFrszXUzC2NkT" : {
+      "date" : "29.01.2016",
+      "id" : "004-002",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgcnFrszXUzC2NkU" : {
+      "date" : "29.01.2016",
+      "id" : "004-002",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgcoe_INSipbxhk5" : {
+      "date" : "30.01.2016",
+      "id" : "004-002",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgcoe_INSipbxhk6" : {
+      "date" : "30.01.2016",
+      "id" : "004-002",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgcpx_LLcJ6nBUMR" : {
+      "date" : "31.01.2016",
+      "id" : "004-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgcpx_LLcJ6nBUMS" : {
+      "date" : "31.01.2016",
+      "id" : "004-002",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgcq2-FdocXNQkoY" : {
+      "date" : "01.01.2016",
+      "id" : "004-003",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgcq2-FdocXNQkoZ" : {
+      "date" : "01.01.2016",
+      "id" : "004-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgcrpw3wE1cEgFN8" : {
+      "date" : "02.01.2016",
+      "id" : "004-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgcsdxyH2jLaEsut" : {
+      "date" : "02.01.2016",
+      "id" : "004-003",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgcsdxyH2jLaEsuu" : {
+      "date" : "03.01.2016",
+      "id" : "004-003",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgctzTUbTCQvcUpB" : {
+      "date" : "03.01.2016",
+      "id" : "004-003",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgcu4ykc8rnl8Fnz" : {
+      "date" : "04.01.2016",
+      "id" : "004-003",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgcu4ykc8rnl8Fo-" : {
+      "date" : "04.01.2016",
+      "id" : "004-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgcvD9v72uAwCJzG" : {
+      "date" : "05.01.2016",
+      "id" : "004-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcww-K0-CznAmjc" : {
+      "date" : "05.01.2016",
+      "id" : "004-003",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgcxx5pY0uN0Duyf" : {
+      "date" : "06.01.2016",
+      "id" : "004-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgcxx5pY0uN0Duyg" : {
+      "date" : "06.01.2016",
+      "id" : "004-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgcyQDRdQXrhz6QK" : {
+      "date" : "07.01.2016",
+      "id" : "004-003",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgcyQDRdQXrhz6QL" : {
+      "date" : "07.01.2016",
+      "id" : "004-003",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgczLbJ_UWZMhpiE" : {
+      "date" : "08.01.2016",
+      "id" : "004-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgczLbJ_UWZMhpiF" : {
+      "date" : "08.01.2016",
+      "id" : "004-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgd-i6G2KDgRHT1r" : {
+      "date" : "09.01.2016",
+      "id" : "004-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgd-i6G2KDgRHT1s" : {
+      "date" : "09.01.2016",
+      "id" : "004-003",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgd0lNLm2Lnl50YQ" : {
+      "date" : "10.01.2016",
+      "id" : "004-003",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgd1Gm1uN0xrB7fb" : {
+      "date" : "10.01.2016",
+      "id" : "004-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgd1Gm1uN0xrB7fc" : {
+      "date" : "11.01.2016",
+      "id" : "004-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgd2LSq9II-nLs7g" : {
+      "date" : "11.01.2016",
+      "id" : "004-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgd2LSq9II-nLs7h" : {
+      "date" : "12.01.2016",
+      "id" : "004-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgd31icdBmJhV6KC" : {
+      "date" : "12.01.2016",
+      "id" : "004-003",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgd31icdBmJhV6KD" : {
+      "date" : "13.01.2016",
+      "id" : "004-003",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgd42ksXna83HW-3" : {
+      "date" : "13.01.2016",
+      "id" : "004-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgd42ksXna83HW-4" : {
+      "date" : "14.01.2016",
+      "id" : "004-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgd5Xi9cSB9qZw7v" : {
+      "date" : "14.01.2016",
+      "id" : "004-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgd5Xi9cSB9qZw7w" : {
+      "date" : "15.01.2016",
+      "id" : "004-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgd6W2JsAQGGNtK_" : {
+      "date" : "15.01.2016",
+      "id" : "004-003",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgd6W2JsAQGGNtKa" : {
+      "date" : "16.01.2016",
+      "id" : "004-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgd7gBO7G3LC1o3L" : {
+      "date" : "16.01.2016",
+      "id" : "004-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgd8lkeD6973xSUi" : {
+      "date" : "17.01.2016",
+      "id" : "004-003",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgd8lkeD6973xSUj" : {
+      "date" : "17.01.2016",
+      "id" : "004-003",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgd9w2i31ycN9o28" : {
+      "date" : "18.01.2016",
+      "id" : "004-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgd9w2i31ycN9o29" : {
+      "date" : "18.01.2016",
+      "id" : "004-003",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgdAIvdm8EWsrwpz" : {
+      "date" : "19.01.2016",
+      "id" : "004-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgdAIvdm8EWsrwq-" : {
+      "date" : "19.01.2016",
+      "id" : "004-003",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdBEuUuTUKsby_k" : {
+      "date" : "20.01.2016",
+      "id" : "004-003",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgdBEuUuTUKsby_l" : {
+      "date" : "20.01.2016",
+      "id" : "004-003",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdCziadY8dlFSiv" : {
+      "date" : "21.01.2016",
+      "id" : "004-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgdCziadY8dlFSiw" : {
+      "date" : "21.01.2016",
+      "id" : "004-003",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgdDp9iWoajSjL8I" : {
+      "date" : "22.01.2016",
+      "id" : "004-003",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgdDp9iWoajSjL8J" : {
+      "date" : "22.01.2016",
+      "id" : "004-003",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgdEgnCw0Ty_wh0Q" : {
+      "date" : "23.01.2016",
+      "id" : "004-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgdEgnCw0Ty_wh0R" : {
+      "date" : "23.01.2016",
+      "id" : "004-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgdF5sCeow6Lgy3T" : {
+      "date" : "24.01.2016",
+      "id" : "004-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgdF5sCeow6Lgy3U" : {
+      "date" : "24.01.2016",
+      "id" : "004-003",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdG0y2HoWCne6op" : {
+      "date" : "25.01.2016",
+      "id" : "004-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgdG0y2HoWCne6oq" : {
+      "date" : "25.01.2016",
+      "id" : "004-003",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgdHn236Kf4RE8RH" : {
+      "date" : "26.01.2016",
+      "id" : "004-003",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgdHn236Kf4RE8RI" : {
+      "date" : "26.01.2016",
+      "id" : "004-003",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgdIU57V6Odo7ZhA" : {
+      "date" : "27.01.2016",
+      "id" : "004-003",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgdIU57V6Odo7ZhB" : {
+      "date" : "27.01.2016",
+      "id" : "004-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgdJCBTyx3irQr09" : {
+      "date" : "28.01.2016",
+      "id" : "004-003",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgdJCBTyx3irQr0A" : {
+      "date" : "28.01.2016",
+      "id" : "004-003",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgdKd4EL-jItdWDg" : {
+      "date" : "29.01.2016",
+      "id" : "004-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgdKd4EL-jItdWDh" : {
+      "date" : "29.01.2016",
+      "id" : "004-003",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgdLrNFZIPc_MV2x" : {
+      "date" : "30.01.2016",
+      "id" : "004-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgdM6jzzCFc-MC06" : {
+      "date" : "30.01.2016",
+      "id" : "004-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgdM6jzzCFc-MC07" : {
+      "date" : "31.01.2016",
+      "id" : "004-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgdNjRBdhDkX5SEB" : {
+      "date" : "31.01.2016",
+      "id" : "004-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgdNjRBdhDkX5SEC" : {
+      "date" : "01.01.2016",
+      "id" : "004-005",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgdOOEJ7UCQRK3mf" : {
+      "date" : "01.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgdOOEJ7UCQRK3mg" : {
+      "date" : "02.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgdPcu-J-TJM-Dcl" : {
+      "date" : "02.01.2016",
+      "id" : "004-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgdPcu-J-TJM-Dcm" : {
+      "date" : "03.01.2016",
+      "id" : "004-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgdQCBwRbll2f2Ow" : {
+      "date" : "03.01.2016",
+      "id" : "004-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgdQCBwRbll2f2Ox" : {
+      "date" : "04.01.2016",
+      "id" : "004-005",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgdRmnawNsF3T64N" : {
+      "date" : "04.01.2016",
+      "id" : "004-005",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgdRmnawNsF3T64O" : {
+      "date" : "05.01.2016",
+      "id" : "004-005",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgdSzTg1qXP-9zLX" : {
+      "date" : "05.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgdTZe-XGeHeNBkg" : {
+      "date" : "06.01.2016",
+      "id" : "004-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgdTZe-XGeHeNBkh" : {
+      "date" : "06.01.2016",
+      "id" : "004-005",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgdU6yGmTX-5W1zl" : {
+      "date" : "07.01.2016",
+      "id" : "004-005",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgdU6yGmTX-5W1zm" : {
+      "date" : "07.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgdV2PQx9OSWXub-" : {
+      "date" : "08.01.2016",
+      "id" : "004-005",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgdV2PQx9OSWXub0" : {
+      "date" : "08.01.2016",
+      "id" : "004-005",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgdWCWVRcLuZpdXw" : {
+      "date" : "09.01.2016",
+      "id" : "004-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgdWCWVRcLuZpdXx" : {
+      "date" : "09.01.2016",
+      "id" : "004-005",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgdXbDT6H54gvilq" : {
+      "date" : "10.01.2016",
+      "id" : "004-005",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgdXbDT6H54gvilr" : {
+      "date" : "10.01.2016",
+      "id" : "004-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgdYp-qrrRENNbFX" : {
+      "date" : "11.01.2016",
+      "id" : "004-005",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgdYp-qrrRENNbFY" : {
+      "date" : "11.01.2016",
+      "id" : "004-005",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgdZyH5gPLLm08xu" : {
+      "date" : "12.01.2016",
+      "id" : "004-005",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgdZyH5gPLLm08xv" : {
+      "date" : "12.01.2016",
+      "id" : "004-005",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgd_Eaux3D_782R7" : {
+      "date" : "13.01.2016",
+      "id" : "004-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgd_Eaux3D_782R8" : {
+      "date" : "13.01.2016",
+      "id" : "004-005",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgdaXsKblam2AGXG" : {
+      "date" : "14.01.2016",
+      "id" : "004-005",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgdaXsKblam2AGXH" : {
+      "date" : "14.01.2016",
+      "id" : "004-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgdbJrzeWkiu54af" : {
+      "date" : "15.01.2016",
+      "id" : "004-005",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgdbJrzeWkiu54ag" : {
+      "date" : "15.01.2016",
+      "id" : "004-005",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgdcbiFSq-MdBKto" : {
+      "date" : "16.01.2016",
+      "id" : "004-005",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDgdcbiFSq-MdBKtp" : {
+      "date" : "16.01.2016",
+      "id" : "004-005",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgddm0n3GDQpKScW" : {
+      "date" : "17.01.2016",
+      "id" : "004-005",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgdgdHvYxa-YU9M_" : {
+      "date" : "17.01.2016",
+      "id" : "004-005",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgdgdHvYxa-YU9Ma" : {
+      "date" : "18.01.2016",
+      "id" : "004-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgdgdHvYxa-YU9Mb" : {
+      "date" : "18.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgdhvSl-jD_Ewoe-" : {
+      "date" : "19.01.2016",
+      "id" : "004-005",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgdhvSl-jD_Ewoe0" : {
+      "date" : "19.01.2016",
+      "id" : "004-005",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgdhvSl-jD_Ewoe1" : {
+      "date" : "20.01.2016",
+      "id" : "004-005",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgdhvSl-jD_Ewoe2" : {
+      "date" : "20.01.2016",
+      "id" : "004-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgdigIbn6_oja0NT" : {
+      "date" : "21.01.2016",
+      "id" : "004-005",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgdigIbn6_oja0NU" : {
+      "date" : "21.01.2016",
+      "id" : "004-005",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdigIbn6_oja0NV" : {
+      "date" : "22.01.2016",
+      "id" : "004-005",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgdigIbn6_oja0NW" : {
+      "date" : "22.01.2016",
+      "id" : "004-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgdjjy9x5emZBpOE" : {
+      "date" : "23.01.2016",
+      "id" : "004-005",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgdjjy9x5emZBpOF" : {
+      "date" : "23.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgdjjy9x5emZBpOG" : {
+      "date" : "24.01.2016",
+      "id" : "004-005",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgdk6CloTnpRBquc" : {
+      "date" : "24.01.2016",
+      "id" : "004-005",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgdk6CloTnpRBqud" : {
+      "date" : "25.01.2016",
+      "id" : "004-005",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgdk6CloTnpRBque" : {
+      "date" : "25.01.2016",
+      "id" : "004-005",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgdk6CloTnpRBquf" : {
+      "date" : "26.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgdlWigXKIVU_WFl" : {
+      "date" : "26.01.2016",
+      "id" : "004-005",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgdlWigXKIVU_WFm" : {
+      "date" : "27.01.2016",
+      "id" : "004-005",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgdlWigXKIVU_WFn" : {
+      "date" : "27.01.2016",
+      "id" : "004-005",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgdlWigXKIVU_WFo" : {
+      "date" : "28.01.2016",
+      "id" : "004-005",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgdm0VhxhJ9kaFvj" : {
+      "date" : "28.01.2016",
+      "id" : "004-005",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgdm0VhxhJ9kaFvk" : {
+      "date" : "29.01.2016",
+      "id" : "004-005",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgdm0VhxhJ9kaFvl" : {
+      "date" : "29.01.2016",
+      "id" : "004-005",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdm0VhxhJ9kaFvm" : {
+      "date" : "30.01.2016",
+      "id" : "004-005",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgdnLTx6-LM-vbTd" : {
+      "date" : "30.01.2016",
+      "id" : "004-005",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdnLTx6-LM-vbTe" : {
+      "date" : "31.01.2016",
+      "id" : "004-005",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgdnLTx6-LM-vbTf" : {
+      "date" : "31.01.2016",
+      "id" : "004-005",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgdnLTx6-LM-vbTg" : {
+      "date" : "01.01.2016",
+      "id" : "005-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgdonSmr7GUTIEqH" : {
+      "date" : "01.01.2016",
+      "id" : "005-001",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgdonSmr7GUTIEqI" : {
+      "date" : "02.01.2016",
+      "id" : "005-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgdonSmr7GUTIEqJ" : {
+      "date" : "02.01.2016",
+      "id" : "005-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgdonSmr7GUTIEqK" : {
+      "date" : "03.01.2016",
+      "id" : "005-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgdpbfGjJjuYHpBK" : {
+      "date" : "03.01.2016",
+      "id" : "005-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgdpbfGjJjuYHpBL" : {
+      "date" : "04.01.2016",
+      "id" : "005-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgdpbfGjJjuYHpBM" : {
+      "date" : "04.01.2016",
+      "id" : "005-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgdpbfGjJjuYHpBN" : {
+      "date" : "05.01.2016",
+      "id" : "005-001",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgdqhtzmvaudGU_J" : {
+      "date" : "05.01.2016",
+      "id" : "005-001",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgdqhtzmvaudGU_K" : {
+      "date" : "06.01.2016",
+      "id" : "005-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgdqhtzmvaudGU_L" : {
+      "date" : "06.01.2016",
+      "id" : "005-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgdqhtzmvaudGU_M" : {
+      "date" : "07.01.2016",
+      "id" : "005-001",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgdrpNU9YXSOb9Rb" : {
+      "date" : "07.01.2016",
+      "id" : "005-001",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgdsHhl54_EbKUiz" : {
+      "date" : "08.01.2016",
+      "id" : "005-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgdsHhl54_EbKUj-" : {
+      "date" : "08.01.2016",
+      "id" : "005-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgdsHhl54_EbKUj0" : {
+      "date" : "09.01.2016",
+      "id" : "005-001",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDgdsHhl54_EbKUj1" : {
+      "date" : "09.01.2016",
+      "id" : "005-001",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgduNWzXmlNC-Dar" : {
+      "date" : "10.01.2016",
+      "id" : "005-001",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgduNWzXmlNC-Das" : {
+      "date" : "10.01.2016",
+      "id" : "005-001",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgduNWzXmlNC-Dat" : {
+      "date" : "11.01.2016",
+      "id" : "005-001",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgduNWzXmlNC-Dau" : {
+      "date" : "11.01.2016",
+      "id" : "005-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgdvfF_IrVmmdADD" : {
+      "date" : "12.01.2016",
+      "id" : "005-001",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgdvfF_IrVmmdADE" : {
+      "date" : "12.01.2016",
+      "id" : "005-001",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgdvfF_IrVmmdADF" : {
+      "date" : "13.01.2016",
+      "id" : "005-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgdvfF_IrVmmdADG" : {
+      "date" : "13.01.2016",
+      "id" : "005-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgdvfF_IrVmmdADH" : {
+      "date" : "14.01.2016",
+      "id" : "005-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgdwyAXlE-cQjYQs" : {
+      "date" : "14.01.2016",
+      "id" : "005-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgdwyAXlE-cQjYQt" : {
+      "date" : "15.01.2016",
+      "id" : "005-001",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgdwyAXlE-cQjYQu" : {
+      "date" : "15.01.2016",
+      "id" : "005-001",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgdwyAXlE-cQjYQv" : {
+      "date" : "16.01.2016",
+      "id" : "005-001",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgdxiMJb5_dXUC3j" : {
+      "date" : "16.01.2016",
+      "id" : "005-001",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgdxiMJb5_dXUC3k" : {
+      "date" : "17.01.2016",
+      "id" : "005-001",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgdxiMJb5_dXUC3l" : {
+      "date" : "17.01.2016",
+      "id" : "005-001",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgdxiMJb5_dXUC3m" : {
+      "date" : "18.01.2016",
+      "id" : "005-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgdyasgQO_jCNNE5" : {
+      "date" : "18.01.2016",
+      "id" : "005-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgdyasgQO_jCNNE6" : {
+      "date" : "19.01.2016",
+      "id" : "005-001",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgdyasgQO_jCNNE7" : {
+      "date" : "19.01.2016",
+      "id" : "005-001",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgdyasgQO_jCNNE8" : {
+      "date" : "20.01.2016",
+      "id" : "005-001",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgdyasgQO_jCNNE9" : {
+      "date" : "20.01.2016",
+      "id" : "005-001",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgdzFyLUaicHPPIX" : {
+      "date" : "21.01.2016",
+      "id" : "005-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgdzFyLUaicHPPIY" : {
+      "date" : "21.01.2016",
+      "id" : "005-001",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgdzFyLUaicHPPIZ" : {
+      "date" : "22.01.2016",
+      "id" : "005-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgdzFyLUaicHPPI_" : {
+      "date" : "22.01.2016",
+      "id" : "005-001",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDge-UdfZvFwI5rHf" : {
+      "date" : "23.01.2016",
+      "id" : "005-001",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDge-UdfZvFwI5rHg" : {
+      "date" : "23.01.2016",
+      "id" : "005-001",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDge-UdfZvFwI5rHh" : {
+      "date" : "24.01.2016",
+      "id" : "005-001",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDge-UdfZvFwI5rHi" : {
+      "date" : "24.01.2016",
+      "id" : "005-001",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDge0OIPxZbMCPxwY" : {
+      "date" : "25.01.2016",
+      "id" : "005-001",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDge0OIPxZbMCPxwZ" : {
+      "date" : "25.01.2016",
+      "id" : "005-001",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDge0OIPxZbMCPxw_" : {
+      "date" : "26.01.2016",
+      "id" : "005-001",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDge0OIPxZbMCPxwa" : {
+      "date" : "26.01.2016",
+      "id" : "005-001",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDge1iKMX1BHwey8-" : {
+      "date" : "27.01.2016",
+      "id" : "005-001",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDge1iKMX1BHwey80" : {
+      "date" : "27.01.2016",
+      "id" : "005-001",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDge1iKMX1BHwey81" : {
+      "date" : "28.01.2016",
+      "id" : "005-001",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDge1iKMX1BHwey82" : {
+      "date" : "28.01.2016",
+      "id" : "005-001",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDge29vPBT_ymmFBz" : {
+      "date" : "29.01.2016",
+      "id" : "005-001",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDge29vPBT_ymmFC-" : {
+      "date" : "29.01.2016",
+      "id" : "005-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDge29vPBT_ymmFC0" : {
+      "date" : "30.01.2016",
+      "id" : "005-001",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDge29vPBT_ymmFC1" : {
+      "date" : "30.01.2016",
+      "id" : "005-001",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDge3gsck6lkT6yon" : {
+      "date" : "31.01.2016",
+      "id" : "005-001",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDge3gsck6lkT6yoo" : {
+      "date" : "31.01.2016",
+      "id" : "005-001",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDge3gsck6lkT6yop" : {
+      "date" : "01.01.2016",
+      "id" : "005-002",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDge4OBDzqD22DUGd" : {
+      "date" : "01.01.2016",
+      "id" : "005-002",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDge4OBDzqD22DUGe" : {
+      "date" : "02.01.2016",
+      "id" : "005-002",
+      "price" : 27,
+      "time" : "08:30"
+    },
+    "-K6jDge4OBDzqD22DUGf" : {
+      "date" : "02.01.2016",
+      "id" : "005-002",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDge4OBDzqD22DUGg" : {
+      "date" : "03.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDge4OBDzqD22DUGh" : {
+      "date" : "03.01.2016",
+      "id" : "005-002",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDge5chhelf83wOVu" : {
+      "date" : "04.01.2016",
+      "id" : "005-002",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDge5chhelf83wOVv" : {
+      "date" : "04.01.2016",
+      "id" : "005-002",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDge5chhelf83wOVw" : {
+      "date" : "05.01.2016",
+      "id" : "005-002",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDge5chhelf83wOVx" : {
+      "date" : "05.01.2016",
+      "id" : "005-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDge6tFvmfYRg2o25" : {
+      "date" : "06.01.2016",
+      "id" : "005-002",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDge6tFvmfYRg2o26" : {
+      "date" : "06.01.2016",
+      "id" : "005-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDge6tFvmfYRg2o27" : {
+      "date" : "07.01.2016",
+      "id" : "005-002",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDge6tFvmfYRg2o28" : {
+      "date" : "07.01.2016",
+      "id" : "005-002",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDge735YXbax0Eg3S" : {
+      "date" : "08.01.2016",
+      "id" : "005-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDge735YXbax0Eg3T" : {
+      "date" : "08.01.2016",
+      "id" : "005-002",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDge735YXbax0Eg3U" : {
+      "date" : "09.01.2016",
+      "id" : "005-002",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDge735YXbax0Eg3V" : {
+      "date" : "09.01.2016",
+      "id" : "005-002",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDge8jpwipnynU3iz" : {
+      "date" : "10.01.2016",
+      "id" : "005-002",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDge8jpwipnynU3j-" : {
+      "date" : "10.01.2016",
+      "id" : "005-002",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDge8jpwipnynU3j0" : {
+      "date" : "11.01.2016",
+      "id" : "005-002",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDge8jpwipnynU3j1" : {
+      "date" : "11.01.2016",
+      "id" : "005-002",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDge9vvDPJDSAaoXQ" : {
+      "date" : "12.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDge9vvDPJDSAaoXR" : {
+      "date" : "12.01.2016",
+      "id" : "005-002",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDge9vvDPJDSAaoXS" : {
+      "date" : "13.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDge9vvDPJDSAaoXT" : {
+      "date" : "13.01.2016",
+      "id" : "005-002",
+      "price" : 22,
+      "time" : "17:55"
+    },
+    "-K6jDgeAT9zKmmAVi5PQ" : {
+      "date" : "14.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgeAT9zKmmAVi5PR" : {
+      "date" : "14.01.2016",
+      "id" : "005-002",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgeAT9zKmmAVi5PS" : {
+      "date" : "15.01.2016",
+      "id" : "005-002",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgeAT9zKmmAVi5PT" : {
+      "date" : "15.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgeBhCZXcoaPCRef" : {
+      "date" : "16.01.2016",
+      "id" : "005-002",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgeBhCZXcoaPCReg" : {
+      "date" : "16.01.2016",
+      "id" : "005-002",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgeBhCZXcoaPCReh" : {
+      "date" : "17.01.2016",
+      "id" : "005-002",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgeBhCZXcoaPCRei" : {
+      "date" : "17.01.2016",
+      "id" : "005-002",
+      "price" : 36,
+      "time" : "17:55"
+    },
+    "-K6jDgeCcfkeorZX_06g" : {
+      "date" : "18.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgeCcfkeorZX_06h" : {
+      "date" : "18.01.2016",
+      "id" : "005-002",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeCcfkeorZX_06i" : {
+      "date" : "19.01.2016",
+      "id" : "005-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgeDcLYALmJcTexI" : {
+      "date" : "19.01.2016",
+      "id" : "005-002",
+      "price" : 23,
+      "time" : "17:55"
+    },
+    "-K6jDgeDcLYALmJcTexJ" : {
+      "date" : "20.01.2016",
+      "id" : "005-002",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgeDcLYALmJcTexK" : {
+      "date" : "20.01.2016",
+      "id" : "005-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgeDcLYALmJcTexL" : {
+      "date" : "21.01.2016",
+      "id" : "005-002",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgeE1H3Kz6Ajm4Io" : {
+      "date" : "21.01.2016",
+      "id" : "005-002",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgeE1H3Kz6Ajm4Ip" : {
+      "date" : "22.01.2016",
+      "id" : "005-002",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgeE1H3Kz6Ajm4Iq" : {
+      "date" : "22.01.2016",
+      "id" : "005-002",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgeFfIw91of69yaK" : {
+      "date" : "23.01.2016",
+      "id" : "005-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgeFfIw91of69yaL" : {
+      "date" : "23.01.2016",
+      "id" : "005-002",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgeFfIw91of69yaM" : {
+      "date" : "24.01.2016",
+      "id" : "005-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgeFfIw91of69yaN" : {
+      "date" : "24.01.2016",
+      "id" : "005-002",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgeGvOCJITv0F1G_" : {
+      "date" : "25.01.2016",
+      "id" : "005-002",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgeGvOCJITv0F1Ga" : {
+      "date" : "25.01.2016",
+      "id" : "005-002",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgeGvOCJITv0F1Gb" : {
+      "date" : "26.01.2016",
+      "id" : "005-002",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgeGvOCJITv0F1Gc" : {
+      "date" : "26.01.2016",
+      "id" : "005-002",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgeHjpJ6X5BjFH3o" : {
+      "date" : "27.01.2016",
+      "id" : "005-002",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgeHjpJ6X5BjFH3p" : {
+      "date" : "27.01.2016",
+      "id" : "005-002",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgeHjpJ6X5BjFH3q" : {
+      "date" : "28.01.2016",
+      "id" : "005-002",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgeHjpJ6X5BjFH3r" : {
+      "date" : "28.01.2016",
+      "id" : "005-002",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgeIiTr8xs9VBkUh" : {
+      "date" : "29.01.2016",
+      "id" : "005-002",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgeIiTr8xs9VBkUi" : {
+      "date" : "29.01.2016",
+      "id" : "005-002",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgeIiTr8xs9VBkUj" : {
+      "date" : "30.01.2016",
+      "id" : "005-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgeIiTr8xs9VBkUk" : {
+      "date" : "30.01.2016",
+      "id" : "005-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgeJr6t4Y6TPl2Ic" : {
+      "date" : "31.01.2016",
+      "id" : "005-002",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgeJr6t4Y6TPl2Id" : {
+      "date" : "31.01.2016",
+      "id" : "005-002",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgeJr6t4Y6TPl2Ie" : {
+      "date" : "01.01.2016",
+      "id" : "005-003",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgeKyHZf5Lt8V4Bz" : {
+      "date" : "01.01.2016",
+      "id" : "005-003",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgeKyHZf5Lt8V4C-" : {
+      "date" : "02.01.2016",
+      "id" : "005-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgeKyHZf5Lt8V4C0" : {
+      "date" : "02.01.2016",
+      "id" : "005-003",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgeL23fg5MTFJnlb" : {
+      "date" : "03.01.2016",
+      "id" : "005-003",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgeL23fg5MTFJnlc" : {
+      "date" : "03.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeL23fg5MTFJnld" : {
+      "date" : "04.01.2016",
+      "id" : "005-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgeL23fg5MTFJnle" : {
+      "date" : "04.01.2016",
+      "id" : "005-003",
+      "price" : 38,
+      "time" : "17:55"
+    },
+    "-K6jDgeMl15piYKwTuy2" : {
+      "date" : "05.01.2016",
+      "id" : "005-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgeMl15piYKwTuy3" : {
+      "date" : "05.01.2016",
+      "id" : "005-003",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgeMl15piYKwTuy4" : {
+      "date" : "06.01.2016",
+      "id" : "005-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgeMl15piYKwTuy5" : {
+      "date" : "06.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeNh_eh6RdM9lM1" : {
+      "date" : "07.01.2016",
+      "id" : "005-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgeNh_eh6RdM9lM2" : {
+      "date" : "07.01.2016",
+      "id" : "005-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgeNh_eh6RdM9lM3" : {
+      "date" : "08.01.2016",
+      "id" : "005-003",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgeNh_eh6RdM9lM4" : {
+      "date" : "08.01.2016",
+      "id" : "005-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgeODksppfQuCylH" : {
+      "date" : "09.01.2016",
+      "id" : "005-003",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgeODksppfQuCylI" : {
+      "date" : "09.01.2016",
+      "id" : "005-003",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgeODksppfQuCylJ" : {
+      "date" : "10.01.2016",
+      "id" : "005-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgeODksppfQuCylK" : {
+      "date" : "10.01.2016",
+      "id" : "005-003",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgeP5iOSDsViekq0" : {
+      "date" : "11.01.2016",
+      "id" : "005-003",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgeP5iOSDsViekq1" : {
+      "date" : "11.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeP5iOSDsViekq2" : {
+      "date" : "12.01.2016",
+      "id" : "005-003",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgeP5iOSDsViekq3" : {
+      "date" : "12.01.2016",
+      "id" : "005-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgeQqeGq7i3tP07I" : {
+      "date" : "13.01.2016",
+      "id" : "005-003",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgeQqeGq7i3tP07J" : {
+      "date" : "13.01.2016",
+      "id" : "005-003",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgeQqeGq7i3tP07K" : {
+      "date" : "14.01.2016",
+      "id" : "005-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgeR4mSISCulDsgo" : {
+      "date" : "14.01.2016",
+      "id" : "005-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgeTQ9-7xRGWznP7" : {
+      "date" : "15.01.2016",
+      "id" : "005-003",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgeTQ9-7xRGWznP8" : {
+      "date" : "15.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeTQ9-7xRGWznP9" : {
+      "date" : "16.01.2016",
+      "id" : "005-003",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgeU8f7trQ45zWY6" : {
+      "date" : "16.01.2016",
+      "id" : "005-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgeU8f7trQ45zWY7" : {
+      "date" : "17.01.2016",
+      "id" : "005-003",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgeU8f7trQ45zWY8" : {
+      "date" : "17.01.2016",
+      "id" : "005-003",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgeVCdJ8P7_b4RrT" : {
+      "date" : "18.01.2016",
+      "id" : "005-003",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgeVCdJ8P7_b4RrU" : {
+      "date" : "18.01.2016",
+      "id" : "005-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgeVCdJ8P7_b4RrV" : {
+      "date" : "19.01.2016",
+      "id" : "005-003",
+      "price" : 29,
+      "time" : "08:30"
+    },
+    "-K6jDgeVCdJ8P7_b4RrW" : {
+      "date" : "19.01.2016",
+      "id" : "005-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgeW-nQfpRERNhrV" : {
+      "date" : "20.01.2016",
+      "id" : "005-003",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgeW-nQfpRERNhrW" : {
+      "date" : "20.01.2016",
+      "id" : "005-003",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgeW-nQfpRERNhrX" : {
+      "date" : "21.01.2016",
+      "id" : "005-003",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgeW-nQfpRERNhrY" : {
+      "date" : "21.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeXP4dRZy8L3uF7" : {
+      "date" : "22.01.2016",
+      "id" : "005-003",
+      "price" : 39,
+      "time" : "08:30"
+    },
+    "-K6jDgeXP4dRZy8L3uF8" : {
+      "date" : "22.01.2016",
+      "id" : "005-003",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgeXP4dRZy8L3uF9" : {
+      "date" : "23.01.2016",
+      "id" : "005-003",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgeXP4dRZy8L3uFA" : {
+      "date" : "23.01.2016",
+      "id" : "005-003",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgeY_IEnICAspc48" : {
+      "date" : "24.01.2016",
+      "id" : "005-003",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgeY_IEnICAspc49" : {
+      "date" : "24.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "17:55"
+    },
+    "-K6jDgeY_IEnICAspc4A" : {
+      "date" : "25.01.2016",
+      "id" : "005-003",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgeZi748Ip4OSinM" : {
+      "date" : "25.01.2016",
+      "id" : "005-003",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgeZi748Ip4OSinN" : {
+      "date" : "26.01.2016",
+      "id" : "005-003",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgeZi748Ip4OSinO" : {
+      "date" : "26.01.2016",
+      "id" : "005-003",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgeZi748Ip4OSinP" : {
+      "date" : "27.01.2016",
+      "id" : "005-003",
+      "price" : 26,
+      "time" : "08:30"
+    },
+    "-K6jDge_9cmAT8eL-HgI" : {
+      "date" : "27.01.2016",
+      "id" : "005-003",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDge_9cmAT8eL-HgJ" : {
+      "date" : "28.01.2016",
+      "id" : "005-003",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDge_9cmAT8eL-HgK" : {
+      "date" : "28.01.2016",
+      "id" : "005-003",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDge_9cmAT8eL-HgL" : {
+      "date" : "29.01.2016",
+      "id" : "005-003",
+      "price" : 40,
+      "time" : "08:30"
+    },
+    "-K6jDgeaRACevxv1V1-U" : {
+      "date" : "29.01.2016",
+      "id" : "005-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgeaRACevxv1V1-V" : {
+      "date" : "30.01.2016",
+      "id" : "005-003",
+      "price" : 22,
+      "time" : "08:30"
+    },
+    "-K6jDgeaRACevxv1V1-W" : {
+      "date" : "30.01.2016",
+      "id" : "005-003",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgeaRACevxv1V1-X" : {
+      "date" : "31.01.2016",
+      "id" : "005-003",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgebKLFIwfWOT6bD" : {
+      "date" : "31.01.2016",
+      "id" : "005-003",
+      "price" : 24,
+      "time" : "17:55"
+    },
+    "-K6jDgebKLFIwfWOT6bE" : {
+      "date" : "01.01.2016",
+      "id" : "005-004",
+      "price" : 42,
+      "time" : "08:30"
+    },
+    "-K6jDgebKLFIwfWOT6bF" : {
+      "date" : "01.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgebKLFIwfWOT6bG" : {
+      "date" : "02.01.2016",
+      "id" : "005-004",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgecH_h0VbgDd-MO" : {
+      "date" : "02.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgecH_h0VbgDd-MP" : {
+      "date" : "03.01.2016",
+      "id" : "005-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgecH_h0VbgDd-MQ" : {
+      "date" : "03.01.2016",
+      "id" : "005-004",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgedCpf43E8JNZkx" : {
+      "date" : "04.01.2016",
+      "id" : "005-004",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgegvk68CAhlmqXp" : {
+      "date" : "04.01.2016",
+      "id" : "005-004",
+      "price" : 30,
+      "time" : "17:55"
+    },
+    "-K6jDgegvk68CAhlmqXq" : {
+      "date" : "05.01.2016",
+      "id" : "005-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgegvk68CAhlmqXr" : {
+      "date" : "05.01.2016",
+      "id" : "005-004",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgehlLtS6PXBqo68" : {
+      "date" : "06.01.2016",
+      "id" : "005-004",
+      "price" : 43,
+      "time" : "08:30"
+    },
+    "-K6jDgehlLtS6PXBqo69" : {
+      "date" : "06.01.2016",
+      "id" : "005-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgehlLtS6PXBqo6A" : {
+      "date" : "07.01.2016",
+      "id" : "005-004",
+      "price" : 34,
+      "time" : "08:30"
+    },
+    "-K6jDgehlLtS6PXBqo6B" : {
+      "date" : "07.01.2016",
+      "id" : "005-004",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgehlLtS6PXBqo6C" : {
+      "date" : "08.01.2016",
+      "id" : "005-004",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgeiBPKBUCYDOPLT" : {
+      "date" : "08.01.2016",
+      "id" : "005-004",
+      "price" : 42,
+      "time" : "17:55"
+    },
+    "-K6jDgeiBPKBUCYDOPLU" : {
+      "date" : "09.01.2016",
+      "id" : "005-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgeiBPKBUCYDOPLV" : {
+      "date" : "09.01.2016",
+      "id" : "005-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgeiBPKBUCYDOPLW" : {
+      "date" : "10.01.2016",
+      "id" : "005-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgejVhQcIvRMFAtk" : {
+      "date" : "10.01.2016",
+      "id" : "005-004",
+      "price" : 32,
+      "time" : "17:55"
+    },
+    "-K6jDgejVhQcIvRMFAtl" : {
+      "date" : "11.01.2016",
+      "id" : "005-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgejVhQcIvRMFAtm" : {
+      "date" : "11.01.2016",
+      "id" : "005-004",
+      "price" : 35,
+      "time" : "17:55"
+    },
+    "-K6jDgejVhQcIvRMFAtn" : {
+      "date" : "12.01.2016",
+      "id" : "005-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgekrdes3aXUe1VI" : {
+      "date" : "12.01.2016",
+      "id" : "005-004",
+      "price" : 37,
+      "time" : "17:55"
+    },
+    "-K6jDgekrdes3aXUe1VJ" : {
+      "date" : "13.01.2016",
+      "id" : "005-004",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgekrdes3aXUe1VK" : {
+      "date" : "13.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgenXCDN_s5ct7fy" : {
+      "date" : "14.01.2016",
+      "id" : "005-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgenXCDN_s5ct7fz" : {
+      "date" : "14.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgenXCDN_s5ct7g-" : {
+      "date" : "15.01.2016",
+      "id" : "005-004",
+      "price" : 41,
+      "time" : "08:30"
+    },
+    "-K6jDgenXCDN_s5ct7g0" : {
+      "date" : "15.01.2016",
+      "id" : "005-004",
+      "price" : 31,
+      "time" : "17:55"
+    },
+    "-K6jDgeo2w1h--_7MD4D" : {
+      "date" : "16.01.2016",
+      "id" : "005-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgeo2w1h--_7MD4E" : {
+      "date" : "16.01.2016",
+      "id" : "005-004",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgeo2w1h--_7MD4F" : {
+      "date" : "17.01.2016",
+      "id" : "005-004",
+      "price" : 31,
+      "time" : "08:30"
+    },
+    "-K6jDgeo2w1h--_7MD4G" : {
+      "date" : "17.01.2016",
+      "id" : "005-004",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgepgHHOXxJry9Ii" : {
+      "date" : "18.01.2016",
+      "id" : "005-004",
+      "price" : 30,
+      "time" : "08:30"
+    },
+    "-K6jDgepgHHOXxJry9Ij" : {
+      "date" : "18.01.2016",
+      "id" : "005-004",
+      "price" : 41,
+      "time" : "17:55"
+    },
+    "-K6jDgepgHHOXxJry9Ik" : {
+      "date" : "19.01.2016",
+      "id" : "005-004",
+      "price" : 38,
+      "time" : "08:30"
+    },
+    "-K6jDgepgHHOXxJry9Il" : {
+      "date" : "19.01.2016",
+      "id" : "005-004",
+      "price" : 25,
+      "time" : "17:55"
+    },
+    "-K6jDgeqLWps3gCsqV2f" : {
+      "date" : "20.01.2016",
+      "id" : "005-004",
+      "price" : 37,
+      "time" : "08:30"
+    },
+    "-K6jDgerASKsQ9m1xnbc" : {
+      "date" : "20.01.2016",
+      "id" : "005-004",
+      "price" : 43,
+      "time" : "17:55"
+    },
+    "-K6jDgeskbaIcBtCM4V7" : {
+      "date" : "21.01.2016",
+      "id" : "005-004",
+      "price" : 33,
+      "time" : "08:30"
+    },
+    "-K6jDgeskbaIcBtCM4V8" : {
+      "date" : "21.01.2016",
+      "id" : "005-004",
+      "price" : 40,
+      "time" : "17:55"
+    },
+    "-K6jDgetB9llr0-8X8Xs" : {
+      "date" : "22.01.2016",
+      "id" : "005-004",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgetB9llr0-8X8Xt" : {
+      "date" : "22.01.2016",
+      "id" : "005-004",
+      "price" : 33,
+      "time" : "17:55"
+    },
+    "-K6jDgeu2NUZp2Z7tX4s" : {
+      "date" : "23.01.2016",
+      "id" : "005-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgeu2NUZp2Z7tX4t" : {
+      "date" : "23.01.2016",
+      "id" : "005-004",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgeu2NUZp2Z7tX4u" : {
+      "date" : "24.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgeu2NUZp2Z7tX4v" : {
+      "date" : "24.01.2016",
+      "id" : "005-004",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgevXVlPCMH52TJY" : {
+      "date" : "25.01.2016",
+      "id" : "005-004",
+      "price" : 35,
+      "time" : "08:30"
+    },
+    "-K6jDgevXVlPCMH52TJZ" : {
+      "date" : "25.01.2016",
+      "id" : "005-004",
+      "price" : 27,
+      "time" : "17:55"
+    },
+    "-K6jDgevXVlPCMH52TJ_" : {
+      "date" : "26.01.2016",
+      "id" : "005-004",
+      "price" : 36,
+      "time" : "08:30"
+    },
+    "-K6jDgewKPZ1UkuSZboW" : {
+      "date" : "26.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgewKPZ1UkuSZboX" : {
+      "date" : "27.01.2016",
+      "id" : "005-004",
+      "price" : 24,
+      "time" : "08:30"
+    },
+    "-K6jDgewKPZ1UkuSZboY" : {
+      "date" : "27.01.2016",
+      "id" : "005-004",
+      "price" : 34,
+      "time" : "17:55"
+    },
+    "-K6jDgexf6JaBXo8oKaW" : {
+      "date" : "28.01.2016",
+      "id" : "005-004",
+      "price" : 23,
+      "time" : "08:30"
+    },
+    "-K6jDgexf6JaBXo8oKaX" : {
+      "date" : "28.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "17:55"
+    },
+    "-K6jDgexf6JaBXo8oKaY" : {
+      "date" : "29.01.2016",
+      "id" : "005-004",
+      "price" : 28,
+      "time" : "08:30"
+    },
+    "-K6jDgexf6JaBXo8oKaZ" : {
+      "date" : "29.01.2016",
+      "id" : "005-004",
+      "price" : 29,
+      "time" : "17:55"
+    },
+    "-K6jDgeyCZpVhj3kHxkS" : {
+      "date" : "30.01.2016",
+      "id" : "005-004",
+      "price" : 32,
+      "time" : "08:30"
+    },
+    "-K6jDgeyCZpVhj3kHxkT" : {
+      "date" : "30.01.2016",
+      "id" : "005-004",
+      "price" : 39,
+      "time" : "17:55"
+    },
+    "-K6jDgeyCZpVhj3kHxkU" : {
+      "date" : "31.01.2016",
+      "id" : "005-004",
+      "price" : 25,
+      "time" : "08:30"
+    },
+    "-K6jDgeyCZpVhj3kHxkV" : {
+      "date" : "31.01.2016",
+      "id" : "005-004",
+      "price" : 31,
+      "time" : "17:55"
+    }
+  },
+  "Purchase" : {
+    "-K6jHczWBirFnpddDA_-" : {
+      "journeyDate" : "14.01.2016",
+      "journeyID" : "003-004",
+      "journeyPrice" : 33,
+      "journeyTime" : "08:30",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6jHg-pTV-8rHkXigug" : {
+      "journeyDate" : "28.01.2016",
+      "journeyID" : "003-004",
+      "journeyPrice" : 34,
+      "journeyTime" : "08:30",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6jcII87Gp9p4smjpDS" : {
+      "journeyDate" : "20.01.2016",
+      "journeyID" : "003-001",
+      "journeyPrice" : 32,
+      "journeyTime" : "08:30",
+      "userID" : "1cabaccf-984b-4f75-9ee1-166eb2ae1df1"
+    },
+    "-K6jcPJKEjX3PG0s2ReB" : {
+      "journeyDate" : "20.01.2016",
+      "journeyID" : "003-001",
+      "journeyPrice" : 40,
+      "journeyTime" : "17:55",
+      "userID" : "1cabaccf-984b-4f75-9ee1-166eb2ae1df1"
+    },
+    "-K6jccFoCyb6pf-a70Rr" : {
+      "journeyDate" : "20.01.2016",
+      "journeyID" : "003-001",
+      "journeyPrice" : 40,
+      "journeyTime" : "17:55",
+      "userID" : "1cabaccf-984b-4f75-9ee1-166eb2ae1df1"
+    },
+    "-K6jcdIQhfpN4sYFfafb" : {
+      "journeyDate" : "15.01.2016",
+      "journeyID" : "005-004",
+      "journeyPrice" : 41,
+      "journeyTime" : "08:30",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6jd9ENpynzYn_uYvEN" : {
+      "journeyDate" : "21.01.2016",
+      "journeyID" : "002-001",
+      "journeyPrice" : 25,
+      "journeyTime" : "17:55",
+      "userID" : "1cabaccf-984b-4f75-9ee1-166eb2ae1df1"
+    },
+    "-K6jdDiX0qiH5sdA6A9-" : {
+      "journeyDate" : "21.01.2016",
+      "journeyID" : "005-001",
+      "journeyPrice" : 32,
+      "journeyTime" : "17:55",
+      "userID" : "1cabaccf-984b-4f75-9ee1-166eb2ae1df1"
+    },
+    "-K6k19y6skKNmGkBEToV" : {
+      "journeyDate" : "15.01.2016",
+      "journeyID" : "001-003",
+      "journeyPrice" : 28,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6k1S-r7qzRf_iVs9ww" : {
+      "journeyDate" : "14.01.2016",
+      "journeyID" : "001-003",
+      "journeyPrice" : 22,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6k1gMroQp2Iv8k9bKW" : {
+      "journeyDate" : "22.01.2016",
+      "journeyID" : "001-003",
+      "journeyPrice" : 41,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6k2CFgu0qdAMeyygtS" : {
+      "journeyDate" : "29.01.2016",
+      "journeyID" : "001-003",
+      "journeyPrice" : 43,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K6mRQDyVVmD6aghHecd" : {
+      "journeyDate" : "02.01.2016",
+      "journeyID" : "001-004",
+      "journeyPrice" : 22,
+      "journeyTime" : "08:30",
+      "userID" : "6eb9b237-3071-4896-8ad5-efe4335b7e31"
+    },
+    "-K6s8BoXC4JiwI1TXioq" : {
+      "journeyDate" : "20.01.2016",
+      "journeyID" : "001-005",
+      "journeyPrice" : 43,
+      "journeyTime" : "17:55",
+      "userID" : "6eb9b237-3071-4896-8ad5-efe4335b7e31"
+    },
+    "-K77dIsIN70P5Nn9ZtT6" : {
+      "journeyDate" : "01.01.2016",
+      "journeyID" : "001-005",
+      "journeyPrice" : 34,
+      "journeyTime" : "08:30",
+      "userID" : "2f260702-034c-4ce9-85f2-0c8dad8dc906"
+    },
+    "-K77la7vrbEu6fcyIt1L" : {
+      "journeyDate" : "22.01.2016",
+      "journeyID" : "004-005",
+      "journeyPrice" : 30,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K77lgTd9Z3_s2pVD5Zz" : {
+      "journeyDate" : "22.01.2016",
+      "journeyID" : "005-001",
+      "journeyPrice" : 28,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K77s_dIYiK9eKT9fDUP" : {
+      "journeyDate" : "03.01.2016",
+      "journeyID" : "002-005",
+      "journeyPrice" : 27,
+      "journeyTime" : "08:30",
+      "userID" : "2f260702-034c-4ce9-85f2-0c8dad8dc906"
+    },
+    "-K78SIKU_u12nkeRJTWb" : {
+      "journeyDate" : "04.01.2016",
+      "journeyID" : "001-002",
+      "journeyPrice" : 22,
+      "journeyTime" : "08:30",
+      "userID" : "50fe0421-78a2-4bb1-adb2-1fb49bf4510a"
+    },
+    "-K7B8q-dQOvnt1ZKCVTo" : {
+      "journeyDate" : "05.01.2016",
+      "journeyID" : "003-005",
+      "journeyPrice" : 41,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K7BHg6eeMt7k40zxGEJ" : {
+      "journeyDate" : "21.01.2016",
+      "journeyID" : "005-003",
+      "journeyPrice" : 28,
+      "journeyTime" : "08:30",
+      "userID" : "721e9305-f819-40e4-a537-ed2993cb7add"
+    },
+    "-K7BM0VP_kqZjsnd_v5G" : {
+      "journeyDate" : "05.01.2016",
+      "journeyID" : "004-005",
+      "journeyPrice" : 41,
+      "journeyTime" : "17:55",
+      "userID" : "d08f5a17-ed05-4cf6-950f-ee09351d070a"
+    },
+    "-K7BsAM64BWOKkuX5r4x" : {
+      "journeyDate" : "05.01.2016",
+      "journeyID" : "004-005",
+      "journeyPrice" : 41,
+      "journeyTime" : "17:55",
+      "userID" : "1fa551d6-236a-4dd0-8095-3ed25f8da815"
+    },
+    "-K7BsC5RnFeczmmCHbB5" : {
+      "journeyDate" : "05.01.2016",
+      "journeyID" : "004-005",
+      "journeyPrice" : 33,
+      "journeyTime" : "08:30",
+      "userID" : "1fa551d6-236a-4dd0-8095-3ed25f8da815"
+    },
+    "-K7BsEZKqXpTBb-6MzFY" : {
+      "journeyDate" : "05.01.2016",
+      "journeyID" : "004-005",
+      "journeyPrice" : 33,
+      "journeyTime" : "08:30",
+      "userID" : "1fa551d6-236a-4dd0-8095-3ed25f8da815"
+    }
+  }
+}

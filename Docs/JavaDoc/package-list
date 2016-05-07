@@ -1,0 +1,5 @@
+com.strans.transapp.activities
+com.strans.transapp.adapters
+com.strans.transapp.dao.concrete
+com.strans.transapp.model
+com.strans.transapp.widget
